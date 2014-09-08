@@ -1,0 +1,5552 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Verbs>
+	<Verb>
+		<Infinitive>abide</Infinitive>
+		<SimplePast>abided / abode</SimplePast>
+		<PastParticiple>abided</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>alight</Infinitive>
+		<SimplePast>alighted / alit</SimplePast>
+		<PastParticiple>alighted / alit</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>arise</Infinitive>
+		<SimplePast>arose</SimplePast>
+		<PastParticiple>arisen</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+			awake		
+		</Infinitive>
+		<SimplePast>
+awakened / awoke
+		</SimplePast>
+		<PastParticiple>
+awakened / awoken
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+			backbite		
+		</Infinitive>
+		<SimplePast>
+backbit
+		</SimplePast>
+		<PastParticiple>
+backbitten
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+			backslide		
+		</Infinitive>
+		<SimplePast>
+backslid
+		</SimplePast>
+		<PastParticiple>backslidden / backslid
+
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+			be		
+		</Infinitive>
+		<SimplePast>
+was / were
+		</SimplePast>
+		<PastParticiple>been
+
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+			bear	
+		</Infinitive>
+		<SimplePast>bore	
+
+		</SimplePast>
+		<PastParticiple>born / borne
+
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+			beat
+		</Infinitive>
+		<SimplePast>beat	
+
+		</SimplePast>
+		<PastParticiple>beaten / beat
+			
+
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+			become	
+		</Infinitive>
+		<SimplePast>became	
+
+		</SimplePast>
+		<PastParticiple>become
+
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+			befall	
+		</Infinitive>
+		<SimplePast>befell	
+
+		</SimplePast>
+		<PastParticiple>befallen
+
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+			beget		
+		</Infinitive>
+		<SimplePast>begat / begot
+
+		</SimplePast>
+		<PastParticiple>begotten
+
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+			begin	
+		</Infinitive>
+		<SimplePast>began	
+
+		</SimplePast>
+		<PastParticiple>
+begun
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+			behold	
+		</Infinitive>
+		<SimplePast>beheld	
+
+		</SimplePast>
+		<PastParticiple>beheld
+
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+			bend	
+		</Infinitive>
+		<SimplePast>bent	
+
+		</SimplePast>
+		<PastParticiple>bent
+
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+			bereave	
+		</Infinitive>
+		<SimplePast>	bereaved / bereft
+
+		</SimplePast>
+		<PastParticiple>bereaved / bereft
+
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+			beseech		
+		</Infinitive>
+		<SimplePast>besought / beseeched
+
+		</SimplePast>
+		<PastParticiple>besought / beseeched
+
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+			beset	
+		</Infinitive>
+		<SimplePast>
+beset	
+		</SimplePast>
+		<PastParticiple>
+beset
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+			bestrew	
+		</Infinitive>
+		<SimplePast>bestrewed	
+
+		</SimplePast>
+		<PastParticiple>bestrewn / bestrewed
+
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+			bet		
+		</Infinitive>
+		<SimplePast>bet / betted 
+
+		</SimplePast>
+		<PastParticiple>bet / betted 
+
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+			betake	
+		</Infinitive>
+		<SimplePast>
+betook
+		</SimplePast>
+		<PastParticiple>
+	betaken
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+			bethink	
+		</Infinitive>
+		<SimplePast>
+bethought	
+		</SimplePast>
+		<PastParticiple>
+bethought
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+			bid	
+		</Infinitive>
+		<SimplePast>bid / bade
+
+		</SimplePast>
+		<PastParticiple>bid / bidden
+
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+			bind	
+		</Infinitive>
+		<SimplePast>bound	
+
+		</SimplePast>
+		<PastParticiple>bound
+
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+			bite	
+		</Infinitive>
+		<SimplePast>bit	
+
+		</SimplePast>
+		<PastParticiple>bitten
+
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+			bleed	
+		</Infinitive>
+		<SimplePast>bled	
+
+		</SimplePast>
+		<PastParticiple>bled
+
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+			blow	
+		</Infinitive>
+		<SimplePast>blew	
+
+		</SimplePast>
+		<PastParticiple>blown
+
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+			break	
+		</Infinitive>
+		<SimplePast>
+broke	
+		</SimplePast>
+		<PastParticiple>broken
+
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+			breed	
+		</Infinitive>
+		<SimplePast>
+bred	
+		</SimplePast>
+		<PastParticiple>
+bred
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+			bring	
+		</Infinitive>
+		<SimplePast>
+brought	
+		</SimplePast>
+		<PastParticiple>
+brought
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+			broadcast	
+		</Infinitive>
+		<SimplePast>broadcast / broadcasted
+
+		</SimplePast>
+		<PastParticiple>broadcast / broadcasted
+
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+			browbeat		
+		</Infinitive>
+		<SimplePast>browbeat
+
+		</SimplePast>
+		<PastParticiple>browbeaten / browbeat
+
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+			build	
+		</Infinitive>
+		<SimplePast>built	
+
+		</SimplePast>
+		<PastParticiple>built
+
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+			burn	 	
+		</Infinitive>
+		<SimplePast>
+burned / burnt
+		</SimplePast>
+		<PastParticiple>burned / burnt 
+
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+			burst	
+		</Infinitive>
+		<SimplePast>burst	
+
+		</SimplePast>
+		<PastParticiple>burst
+
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+			bust		
+		</Infinitive>
+		<SimplePast>busted / bust
+
+		</SimplePast>
+		<PastParticiple>busted / bust
+
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+			buy
+		</Infinitive>
+		<SimplePast>
+	bought	
+		</SimplePast>
+		<PastParticiple>
+bought
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+			cast	
+		</Infinitive>
+		<SimplePast>
+cast
+		</SimplePast>
+		<PastParticiple>
+cast
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+			catch	
+		</Infinitive>
+		<SimplePast>
+caught	
+		</SimplePast>
+		<PastParticiple>
+caught
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+			chide		
+		</Infinitive>
+		<SimplePast>
+chided / chid
+		</SimplePast>
+		<PastParticiple>
+chided / chidden
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+			choose		
+		</Infinitive>
+		<SimplePast>
+chose
+		</SimplePast>
+		<PastParticiple>chosen
+
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+clap	
+		</Infinitive>
+		<SimplePast>
+clapped / clapt 
+		</SimplePast>
+		<PastParticiple>
+clapped / clapt 
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+cling	
+		</Infinitive>
+		<SimplePast>
+clung	
+		</SimplePast>
+		<PastParticiple>
+clung
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+clothe	
+		</Infinitive>
+		<SimplePast>
+clothed / clad 	
+		</SimplePast>
+		<PastParticiple>
+clothed / clad 
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+colorbreed	
+		</Infinitive>
+		<SimplePast>
+colorbred	
+		</SimplePast>
+		<PastParticiple>
+colorbred
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+come	
+		</Infinitive>
+		<SimplePast>
+came	
+		</SimplePast>
+		<PastParticiple>
+come
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+cost	
+		</Infinitive>
+		<SimplePast>
+cost	
+		</SimplePast>
+		<PastParticiple>
+cost
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+creep	
+		</Infinitive>
+		<SimplePast>
+crept	
+		</SimplePast>
+		<PastParticiple>
+crept
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+crossbreed	
+		</Infinitive>
+		<SimplePast>
+crossbred	
+		</SimplePast>
+		<PastParticiple>
+crossbred
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+cut	
+		</Infinitive>
+		<SimplePast>
+cut	
+		</SimplePast>
+		<PastParticiple>
+cut
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+dare	
+		</Infinitive>
+		<SimplePast>dared / durst	
+
+		</SimplePast>
+		<PastParticiple>dared / durst
+
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+daydream	 	
+		</Infinitive>
+		<SimplePast>daydreamed / daydreamt
+
+		</SimplePast>
+		<PastParticiple>daydreamed / daydreamt 
+
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+deal	
+		</Infinitive>
+		<SimplePast>dealt	
+
+		</SimplePast>
+		<PastParticiple>dealt
+
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+dig	
+		</Infinitive>
+		<SimplePast>dug	
+
+		</SimplePast>
+		<PastParticiple>dug
+
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+dight		
+		</Infinitive>
+		<SimplePast>dighted / dight
+
+		</SimplePast>
+		<PastParticiple>
+dighted / dight
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+disprove		
+		</Infinitive>
+		<SimplePast>disproved
+
+		</SimplePast>
+		<PastParticiple>disproved / disproven
+
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+dive		
+		</Infinitive>
+		<SimplePast>
+dived / dove
+		</SimplePast>
+		<PastParticiple>
+dived
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+do	
+		</Infinitive>
+		<SimplePast>did
+
+		</SimplePast>
+		<PastParticiple>	done
+
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+draw	
+		</Infinitive>
+		<SimplePast>drew	
+
+		</SimplePast>
+		<PastParticiple>drawn
+
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+dream	
+
+		</Infinitive>
+		<SimplePast>dreamed / dreamt 	
+
+		</SimplePast>
+		<PastParticiple>dreamed / dreamt 
+
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+drink	
+
+		</Infinitive>
+		<SimplePast>drank	
+
+		</SimplePast>
+		<PastParticiple>drunk
+
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+drive	
+
+		</Infinitive>
+		<SimplePast>drove
+
+		</SimplePast>
+		<PastParticiple>	driven
+
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+dwell	
+
+		</Infinitive>
+		<SimplePast>dwelt / dwelled 	
+
+		</SimplePast>
+		<PastParticiple>
+dwelt / dwelled 
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+eat	
+		</Infinitive>
+		<SimplePast>
+ate	
+		</SimplePast>
+		<PastParticiple>
+eaten
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+enwind	
+
+		</Infinitive>
+		<SimplePast>enwound	
+
+		</SimplePast>
+		<PastParticiple>enwound
+
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+fall	
+
+		</Infinitive>
+		<SimplePast>fell	
+
+		</SimplePast>
+		<PastParticiple>fallen
+
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+feed	
+		</Infinitive>
+		<SimplePast>
+fed
+		</SimplePast>
+		<PastParticiple>
+	fed
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+feel	
+
+		</Infinitive>
+		<SimplePast>felt	
+
+		</SimplePast>
+		<PastParticiple>felt
+
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+fight	
+
+		</Infinitive>
+		<SimplePast>
+fought	
+		</SimplePast>
+		<PastParticiple>fought
+
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+find	found	found
+
+		</Infinitive>
+		<SimplePast>
+
+		</SimplePast>
+		<PastParticiple>
+
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+fit	 	
+
+		</Infinitive>
+		<SimplePast>fit / fitted
+
+		</SimplePast>
+		<PastParticiple>fit / fitted 
+
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+flee	
+
+		</Infinitive>
+		<SimplePast>fled	
+
+		</SimplePast>
+		<PastParticiple>fled
+
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+fling	
+
+		</Infinitive>
+		<SimplePast>flung	
+
+		</SimplePast>
+		<PastParticiple>flung
+
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+fly
+
+		</Infinitive>
+		<SimplePast>	flew	
+
+		</SimplePast>
+		<PastParticiple>flown
+
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+forbear	
+
+		</Infinitive>
+		<SimplePast>forbore	
+
+		</SimplePast>
+		<PastParticiple>forborne
+
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+forbid	
+
+		</Infinitive>
+		<SimplePast>forbade	
+
+		</SimplePast>
+		<PastParticiple>forbidden
+
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+fordo		
+
+		</Infinitive>
+		<SimplePast>fordid
+
+		</SimplePast>
+		<PastParticiple>fordone
+
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+forecast		
+
+		</Infinitive>
+		<SimplePast>forecast
+
+		</SimplePast>
+		<PastParticiple>forecast
+
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+forego / forgo		
+
+		</Infinitive>
+		<SimplePast>forewent
+
+		</SimplePast>
+		<PastParticiple>foregone
+
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+foreknow	
+
+		</Infinitive>
+		<SimplePast>foreknew	
+
+		</SimplePast>
+		<PastParticiple>foreknown
+
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+forerun	
+
+		</Infinitive>
+		<SimplePast>foreran	
+
+		</SimplePast>
+		<PastParticiple>forerun
+
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+foresee
+
+		</Infinitive>
+		<SimplePast>	foresaw	
+
+		</SimplePast>
+		<PastParticiple>foreseen
+
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+foreshow		
+
+		</Infinitive>
+		<SimplePast>foreshowed
+
+		</SimplePast>
+		<PastParticiple>foreshown / foreshowed
+
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+forespeak	
+
+		</Infinitive>
+		<SimplePast>forespoke	
+
+		</SimplePast>
+		<PastParticiple>forespoken
+
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+foretell	
+
+		</Infinitive>
+		<SimplePast>foretold	
+
+		</SimplePast>
+		<PastParticiple>foretold
+
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+forget		 
+
+		</Infinitive>
+		<SimplePast>
+forgot
+		</SimplePast>
+		<PastParticiple>forgotten / forgot
+
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+forgive	
+
+		</Infinitive>
+		<SimplePast>forgave	
+
+		</SimplePast>
+		<PastParticiple>forgiven
+
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+forsake	
+
+		</Infinitive>
+		<SimplePast>forsook	
+
+		</SimplePast>
+		<PastParticiple>forsaken
+
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+forswear	
+
+		</Infinitive>
+		<SimplePast>forswore	
+
+		</SimplePast>
+		<PastParticiple>forsworn
+
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+fraught	
+
+		</Infinitive>
+		<SimplePast>fraught	
+
+		</SimplePast>
+		<PastParticiple>fraught
+
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+freeze	
+
+		</Infinitive>
+		<SimplePast>froze	
+
+		</SimplePast>
+		<PastParticiple>frozen
+
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+frostbite	
+
+		</Infinitive>
+		<SimplePast>frostbit	
+
+		</SimplePast>
+		<PastParticiple>frostbitten
+
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+gainsay	
+		</Infinitive>
+		<SimplePast>
+gainsaid	
+		</SimplePast>
+		<PastParticiple>
+gainsaid
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+get		
+
+		</Infinitive>
+		<SimplePast>
+got
+		</SimplePast>
+		<PastParticiple>gotten / got 
+
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+gild		
+
+		</Infinitive>
+		<SimplePast>
+gilded / gilt
+		</SimplePast>
+		<PastParticiple>gilded / gilt
+
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+give	
+
+		</Infinitive>
+		<SimplePast>gave	
+
+		</SimplePast>
+		<PastParticiple>given
+
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+go	
+
+		</Infinitive>
+		<SimplePast>went	
+
+		</SimplePast>
+		<PastParticiple>gone
+
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+grind	
+
+		</Infinitive>
+		<SimplePast>ground	
+
+		</SimplePast>
+		<PastParticiple>ground
+
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+grow	
+
+		</Infinitive>
+		<SimplePast>grew	
+
+		</SimplePast>
+		<PastParticiple>grown
+
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+hagride	
+		</Infinitive>
+		<SimplePast>
+hagrode
+		</SimplePast>
+		<PastParticiple>
+	hagridden
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+halterbreak
+		</Infinitive>
+		<SimplePast>
+	halterbroke
+
+		</SimplePast>
+		<PastParticiple>
+	halterbroken
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+hamstring		
+
+		</Infinitive>
+		<SimplePast>
+hamstrung
+		</SimplePast>
+		<PastParticiple>
+hamstrung
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+hand-feed		
+
+		</Infinitive>
+		<SimplePast>hand-fed
+
+		</SimplePast>
+		<PastParticiple>hand-fed
+
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+handwrite		
+
+		</Infinitive>
+		<SimplePast>handwrote
+
+		</SimplePast>
+		<PastParticiple>handwritten
+
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+hang		
+
+		</Infinitive>
+		<SimplePast>hanged / hung
+
+		</SimplePast>
+		<PastParticiple>hanged / hung
+
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+have	
+
+		</Infinitive>
+		<SimplePast>had	
+
+		</SimplePast>
+		<PastParticiple>had
+
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+hear	
+
+		</Infinitive>
+		<SimplePast>heard
+
+		</SimplePast>
+		<PastParticiple>heard	
+
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+heave		
+
+		</Infinitive>
+		<SimplePast>heaved / hove
+
+		</SimplePast>
+		<PastParticiple>
+heaved / hove
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+hew	
+
+		</Infinitive>
+		<SimplePast>
+hewed	
+		</SimplePast>
+		<PastParticiple>hewn / hewed
+
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+hide	
+
+		</Infinitive>
+		<SimplePast>
+hid	
+		</SimplePast>
+		<PastParticiple>hidden
+
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+hurt	
+
+		</Infinitive>
+		<SimplePast>
+hurt	
+		</SimplePast>
+		<PastParticiple>
+hurt
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+hit
+
+		</Infinitive>
+		<SimplePast>
+	hit
+		</SimplePast>
+		<PastParticiple>
+	hit
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+hold	
+
+		</Infinitive>
+		<SimplePast>
+held
+		</SimplePast>
+		<PastParticiple>
+	held
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+inbreed
+		</Infinitive>
+		<SimplePast>
+	inbred	
+		</SimplePast>
+		<PastParticiple>
+inbred
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+inlay	
+
+		</Infinitive>
+		<SimplePast>
+inlaid	
+		</SimplePast>
+		<PastParticiple>
+inlaid
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+input		
+
+		</Infinitive>
+		<SimplePast>input / inputted
+
+		</SimplePast>
+		<PastParticiple>
+input / inputted
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+inset		
+
+		</Infinitive>
+		<SimplePast>inset
+
+		</SimplePast>
+		<PastParticiple>inset
+
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+interbreed	
+
+		</Infinitive>
+		<SimplePast>interbred	
+
+		</SimplePast>
+		<PastParticiple>interbred
+
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+intercut		
+
+		</Infinitive>
+		<SimplePast>intercut
+
+		</SimplePast>
+		<PastParticiple>intercut
+
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+interlay		
+
+		</Infinitive>
+		<SimplePast>
+interlaid
+		</SimplePast>
+		<PastParticiple>interlaid
+
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+interset		
+
+		</Infinitive>
+		<SimplePast>interset
+
+		</SimplePast>
+		<PastParticiple>interset
+
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+interweave		
+
+		</Infinitive>
+		<SimplePast>interwove / interweaved
+
+		</SimplePast>
+		<PastParticiple>interwoven / interweaved
+
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+interwind		
+
+		</Infinitive>
+		<SimplePast>interwound
+
+		</SimplePast>
+		<PastParticiple>interwound
+
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+inweave	
+
+		</Infinitive>
+		<SimplePast>inwove / inweaved	
+
+		</SimplePast>
+		<PastParticiple>inwoven / inweaved
+
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+jerry-build		
+
+		</Infinitive>
+		<SimplePast>jerry-built
+
+		</SimplePast>
+		<PastParticiple>jerry-built
+
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+keep		
+
+		</Infinitive>
+		<SimplePast>kept
+
+		</SimplePast>
+		<PastParticiple>kept
+
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+kneel		
+
+		</Infinitive>
+		<SimplePast>knelt / kneeled
+
+		</SimplePast>
+		<PastParticiple>knelt / kneeled
+
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+knit		
+
+		</Infinitive>
+		<SimplePast>knitted / knit
+
+		</SimplePast>
+		<PastParticiple>knitted / knit
+
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+know		
+
+		</Infinitive>
+		<SimplePast>
+knew
+		</SimplePast>
+		<PastParticiple>known
+
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+lade		
+		</Infinitive>
+		<SimplePast>
+laded
+		</SimplePast>
+		<PastParticiple>laden / laded
+
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+landslide		
+
+		</Infinitive>
+		<SimplePast>landslid
+
+		</SimplePast>
+		<PastParticiple>landslid
+
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+lay		
+
+		</Infinitive>
+		<SimplePast>
+laid
+		</SimplePast>
+		<PastParticiple>laid
+
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+lead		
+
+		</Infinitive>
+		<SimplePast>led
+
+		</SimplePast>
+		<PastParticiple>led
+
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+lean	 
+
+		</Infinitive>
+		<SimplePast>leaned / leant
+
+		</SimplePast>
+		<PastParticiple>	leaned / leant 
+
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+leap	 	
+
+		</Infinitive>
+		<SimplePast>leaped / leapt
+
+		</SimplePast>
+		<PastParticiple>leaped / leapt 
+
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+learn	 	 
+
+		</Infinitive>
+		<SimplePast>learned / learnt
+
+		</SimplePast>
+		<PastParticiple>
+learned / learnt
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+leave		
+
+		</Infinitive>
+		<SimplePast>left
+
+		</SimplePast>
+		<PastParticiple>left
+
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+lend		
+
+		</Infinitive>
+		<SimplePast>lent
+
+		</SimplePast>
+		<PastParticiple>lent
+
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+let
+
+		</Infinitive>
+		<SimplePast>
+let	
+		</SimplePast>
+		<PastParticiple>	let
+
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+lie	
+
+		</Infinitive>
+		<SimplePast>	lay
+
+		</SimplePast>
+		<PastParticiple>lain
+
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+light		
+
+		</Infinitive>
+		<SimplePast>lit / lighted
+
+		</SimplePast>
+		<PastParticiple>lit / lighted
+
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+lip-read	
+
+		</Infinitive>
+		<SimplePast>
+lip-read	
+		</SimplePast>
+		<PastParticiple>
+lip-read
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+lose		
+
+		</Infinitive>
+		<SimplePast>
+lost
+		</SimplePast>
+		<PastParticiple>
+lost
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+make		
+
+		</Infinitive>
+		<SimplePast>
+made
+		</SimplePast>
+		<PastParticiple>
+made
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+mean		
+
+		</Infinitive>
+		<SimplePast>
+meant
+		</SimplePast>
+		<PastParticiple>
+meant
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+meet		
+		</Infinitive>
+		<SimplePast>
+met
+		</SimplePast>
+		<PastParticiple>
+met
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+misbecome		
+
+		</Infinitive>
+		<SimplePast>misbecame
+
+		</SimplePast>
+		<PastParticiple>misbecome
+
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+mow		
+
+		</Infinitive>
+		<SimplePast>
+mowed
+		</SimplePast>
+		<PastParticiple>
+mowed / mown
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+miswrite		
+
+		</Infinitive>
+		<SimplePast>
+miswrote
+		</SimplePast>
+		<PastParticiple>
+miswritten
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+miswed		
+
+		</Infinitive>
+		<SimplePast>
+miswed / miswedded
+		</SimplePast>
+		<PastParticiple>
+miswed / miswedded
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+miswear		
+
+		</Infinitive>
+		<SimplePast>miswore
+
+		</SimplePast>
+		<PastParticiple>misworn
+
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+miscast	
+
+		</Infinitive>
+		<SimplePast>miscast
+
+		</SimplePast>
+		<PastParticiple>	miscast
+
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+miscut
+
+		</Infinitive>
+		<SimplePast>miscut	
+
+		</SimplePast>
+		<PastParticiple>	miscut
+
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+misunderstand		
+
+		</Infinitive>
+		<SimplePast>misunderstood
+
+		</SimplePast>
+		<PastParticiple>misunderstood
+
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+misthink	
+
+		</Infinitive>
+		<SimplePast>misthought	
+
+		</SimplePast>
+		<PastParticiple>misthought
+
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+mistell		
+
+		</Infinitive>
+		<SimplePast>mistold
+
+		</SimplePast>
+		<PastParticiple>mistold
+
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+misdeal	
+
+		</Infinitive>
+		<SimplePast>misdealt	
+
+		</SimplePast>
+		<PastParticiple>misdealt
+
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+misdo
+
+		</Infinitive>
+		<SimplePast>
+	misdid	
+		</SimplePast>
+		<PastParticiple>misdone
+
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+misteach	
+
+		</Infinitive>
+		<SimplePast>mistaught
+
+		</SimplePast>
+		<PastParticiple>	mistaught
+
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+mistake		
+
+		</Infinitive>
+		<SimplePast>mistook
+
+		</SimplePast>
+		<PastParticiple>mistaken
+
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+misswear		
+
+		</Infinitive>
+		<SimplePast>
+misswore
+		</SimplePast>
+		<PastParticiple>missworn
+
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+misspend	
+
+		</Infinitive>
+		<SimplePast>
+misspent	
+		</SimplePast>
+		<PastParticiple>misspent
+
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+misspell		
+
+		</Infinitive>
+		<SimplePast>
+misspelled / misspelt 
+		</SimplePast>
+		<PastParticiple>
+misspelled / misspelt 
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+mishear		
+
+		</Infinitive>
+		<SimplePast>
+misheard
+		</SimplePast>
+		<PastParticiple>
+misheard
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+mishit	
+
+		</Infinitive>
+		<SimplePast>
+mishit
+		</SimplePast>
+		<PastParticiple>	mishit
+
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+misspeak		
+
+		</Infinitive>
+		<SimplePast>
+misspoke
+		</SimplePast>
+		<PastParticiple>misspoken
+
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+misset		
+
+		</Infinitive>
+		<SimplePast>
+misset
+		</SimplePast>
+		<PastParticiple>misset
+
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+missend		
+
+		</Infinitive>
+		<SimplePast>
+missent
+		</SimplePast>
+		<PastParticiple>missent
+
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+missay		
+
+		</Infinitive>
+		<SimplePast>
+missaid
+		</SimplePast>
+		<PastParticiple>
+missaid
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+misread	
+
+		</Infinitive>
+		<SimplePast>
+	misread
+		</SimplePast>
+		<PastParticiple>
+misread
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+mislearn	
+
+		</Infinitive>
+		<SimplePast>
+mislearned / mislearnt 	
+		</SimplePast>
+		<PastParticiple>
+mislearned / mislearnt 
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+mislead	
+
+		</Infinitive>
+		<SimplePast>	misled
+
+		</SimplePast>
+		<PastParticiple>misled
+
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+mislay		
+
+		</Infinitive>
+		<SimplePast>
+mislaid
+		</SimplePast>
+		<PastParticiple>mislaid
+
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+offset		
+
+		</Infinitive>
+		<SimplePast>offset
+
+		</SimplePast>
+		<PastParticiple>offset
+
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+overwrite		
+
+		</Infinitive>
+		<SimplePast>overwrote
+
+		</SimplePast>
+		<PastParticiple>overwritten
+
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+overwind		
+
+		</Infinitive>
+		<SimplePast>overwound
+
+		</SimplePast>
+		<PastParticiple>overwound
+
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+overwear	
+
+		</Infinitive>
+		<SimplePast>overwore
+
+		</SimplePast>
+		<PastParticiple>	overworn
+
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+overthrow
+
+		</Infinitive>
+		<SimplePast>
+overthrew	
+		</SimplePast>
+		<PastParticiple>	overthrown
+
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+outbid		
+
+
+		</Infinitive>
+		<SimplePast>outbid
+
+		</SimplePast>
+		<PastParticiple>outbid
+
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+overthink		
+
+		</Infinitive>
+		<SimplePast>overthought
+
+		</SimplePast>
+		<PastParticiple>overthought
+
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+overtake		
+
+		</Infinitive>
+		<SimplePast>overtook
+
+		</SimplePast>
+		<PastParticiple>overtaken
+
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+overstrike	
+
+		</Infinitive>
+		<SimplePast>	overstruck
+
+		</SimplePast>
+		<PastParticiple>overstruck
+
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+overshoot	
+
+		</Infinitive>
+		<SimplePast>
+	overshot
+		</SimplePast>
+		<PastParticiple>overshot
+
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+overstride	
+
+		</Infinitive>
+		<SimplePast>overstrode
+
+		</SimplePast>
+		<PastParticiple>	overstridden
+
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+overstrew	
+
+		</Infinitive>
+		<SimplePast>overstrewed
+
+		</SimplePast>
+		<PastParticiple>	overstrewn / overstrewed
+
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+overstand		
+
+		</Infinitive>
+		<SimplePast>overstood
+
+		</SimplePast>
+		<PastParticiple>overstood
+
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+overspring
+
+		</Infinitive>
+		<SimplePast>
+oversprang
+		</SimplePast>
+		<PastParticiple>
+oversprung
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+overspread	
+
+		</Infinitive>
+		<SimplePast>overspread	
+
+		</SimplePast>
+		<PastParticiple>overspread
+
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+overspin		
+
+		</Infinitive>
+		<SimplePast>overspun
+
+		</SimplePast>
+		<PastParticiple>overspun
+
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+oversleep	
+
+		</Infinitive>
+		<SimplePast>	overslept
+
+		</SimplePast>
+		<PastParticiple>overslept
+
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+oversow		
+
+		</Infinitive>
+		<SimplePast>oversowed
+
+		</SimplePast>
+		<PastParticiple>oversown / oversowed
+
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+overspeak
+
+		</Infinitive>
+		<SimplePast>
+overspoke	
+		</SimplePast>
+		<PastParticiple>	overspoken
+
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+overspill		
+
+		</Infinitive>
+		<SimplePast>overspilled / overspilt 
+
+		</SimplePast>
+		<PastParticiple>overspilled / overspilt 
+
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+overspend	
+
+		</Infinitive>
+		<SimplePast>
+overspent
+		</SimplePast>
+		<PastParticiple>	overspent
+
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+overcut		
+
+		</Infinitive>
+		<SimplePast>overcut
+
+		</SimplePast>
+		<PastParticiple>overcut
+
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+oversew		
+
+		</Infinitive>
+		<SimplePast>
+oversewed
+		</SimplePast>
+		<PastParticiple>oversewn / oversewed
+
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+overset	
+
+		</Infinitive>
+		<SimplePast>overset	
+
+		</SimplePast>
+		<PastParticiple>overset
+
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+oversell	
+
+		</Infinitive>
+		<SimplePast>oversold	
+
+		</SimplePast>
+		<PastParticiple>oversold
+
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+oversee		
+
+		</Infinitive>
+		<SimplePast>
+oversaw
+		</SimplePast>
+		<PastParticiple>overseen
+
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+overfeed		
+
+		</Infinitive>
+		<SimplePast>overfed
+
+		</SimplePast>
+		<PastParticiple>overfed
+
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+overrun	
+
+		</Infinitive>
+		<SimplePast>
+	overran
+		</SimplePast>
+		<PastParticiple>overrun
+
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+override		
+
+		</Infinitive>
+		<SimplePast>
+overrode
+		</SimplePast>
+		<PastParticiple>overridden
+
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+overpay	
+
+		</Infinitive>
+		<SimplePast>
+	overpaid
+		</SimplePast>
+		<PastParticiple>overpaid
+
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+overlie	
+
+		</Infinitive>
+		<SimplePast>overlay	
+
+		</SimplePast>
+		<PastParticiple>overlain
+
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+overleap	
+
+		</Infinitive>
+		<SimplePast>overleaped / overleapt 	
+
+		</SimplePast>
+		<PastParticiple>overleaped / overleapt 
+
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+overlay	
+
+		</Infinitive>
+		<SimplePast>	overlaid
+
+		</SimplePast>
+		<PastParticiple>overlaid
+
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+overhang		
+
+		</Infinitive>
+		<SimplePast>
+overhung
+		</SimplePast>
+		<PastParticiple>overhung
+
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+overdo	
+
+		</Infinitive>
+		<SimplePast>overdid	
+
+		</SimplePast>
+		<PastParticiple>overdone
+
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+overdraw		
+
+		</Infinitive>
+		<SimplePast>
+overdrew
+		</SimplePast>
+		<PastParticiple>overdrawn
+
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+overdrink		
+
+		</Infinitive>
+		<SimplePast>overdrank
+
+		</SimplePast>
+		<PastParticiple>overdrunk
+
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+overeat		
+
+		</Infinitive>
+		<SimplePast>
+overate
+		</SimplePast>
+		<PastParticiple>
+overeaten
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+outsleep	
+
+		</Infinitive>
+		<SimplePast>
+outslept
+		</SimplePast>
+		<PastParticiple>	outslept
+
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+outsmell	
+
+		</Infinitive>
+		<SimplePast>
+outsmelled / outsmelt 	
+		</SimplePast>
+		<PastParticiple>outsmelled / outsmelt 
+
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+overcome		
+
+		</Infinitive>
+		<SimplePast>
+overcame
+		</SimplePast>
+		<PastParticiple>overcome
+
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+overcast		
+
+		</Infinitive>
+		<SimplePast>overcast
+
+		</SimplePast>
+		<PastParticiple>overcast
+
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+overbuy	
+
+		</Infinitive>
+		<SimplePast>overbought	
+
+		</SimplePast>
+		<PastParticiple>overbought
+
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+overbuild		
+
+		</Infinitive>
+		<SimplePast>
+overbuilt
+		</SimplePast>
+		<PastParticiple>overbuilt
+
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+overbreed		
+
+		</Infinitive>
+		<SimplePast>overbred
+
+		</SimplePast>
+		<PastParticiple>overbred
+
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+overbid		
+
+		</Infinitive>
+		<SimplePast>
+overbid
+		</SimplePast>
+		<PastParticiple>overbid
+
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+outspeak		
+		</Infinitive>
+		<SimplePast>
+outspoke
+		</SimplePast>
+		<PastParticiple>outspoken
+
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+overbear		
+
+		</Infinitive>
+		<SimplePast>overbore
+
+		</SimplePast>
+		<PastParticiple>overborne / overborn
+
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+outwrite		
+
+		</Infinitive>
+		<SimplePast>outwrote
+
+		</SimplePast>
+		<PastParticiple>outwritten
+
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+outwind	
+
+		</Infinitive>
+		<SimplePast>
+	outwound
+		</SimplePast>
+		<PastParticiple>
+outwound
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+outwear		
+
+		</Infinitive>
+		<SimplePast>
+outwore
+		</SimplePast>
+		<PastParticiple>
+outworn
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+outspeed	
+
+
+		</Infinitive>
+		<SimplePast>outsped
+
+		</SimplePast>
+		<PastParticiple>	outsped
+
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+outthrow		
+
+		</Infinitive>
+		<SimplePast>outthrew
+
+		</SimplePast>
+		<PastParticiple>outthrown
+
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+outthink		
+
+		</Infinitive>
+		<SimplePast>
+outthought
+		</SimplePast>
+		<PastParticiple>
+outthought
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+outtell		
+
+		</Infinitive>
+		<SimplePast>
+outtold
+		</SimplePast>
+		<PastParticiple>outtold
+
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+outswim	
+
+		</Infinitive>
+		<SimplePast>outswam	
+
+		</SimplePast>
+		<PastParticiple>outswum
+
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+outswear		
+		</Infinitive>
+		<SimplePast>outswore
+
+		</SimplePast>
+		<PastParticiple>outsworn
+
+
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+outstand	
+
+		</Infinitive>
+		<SimplePast>outstood	
+
+		</SimplePast>
+		<PastParticiple>outstood
+
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+outspend		
+		</Infinitive>
+		<SimplePast>
+outspent
+		</SimplePast>
+		<PastParticiple>outspent
+
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+outspring		
+
+		</Infinitive>
+		<SimplePast>outsprang / outsprung
+
+		</SimplePast>
+		<PastParticiple>outsprung
+
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+outspin
+
+		</Infinitive>
+		<SimplePast>	outspun
+
+		</SimplePast>
+		<PastParticiple>	outspun
+
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+outbreed	
+		</Infinitive>
+		<SimplePast>
+outbred	
+		</SimplePast>
+		<PastParticiple>outbred
+
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+outsit		
+
+		</Infinitive>
+		<SimplePast>
+outsat
+		</SimplePast>
+		<PastParticiple>outsat
+
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+outsing		
+
+		</Infinitive>
+		<SimplePast>outsang
+
+		</SimplePast>
+		<PastParticiple>outsung
+
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+outshoot		
+
+		</Infinitive>
+		<SimplePast>
+outshot
+		</SimplePast>
+		<PastParticiple>outshot
+
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+outdo		
+
+		</Infinitive>
+		<SimplePast>outdid
+
+		</SimplePast>
+		<PastParticiple>outdone
+
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>outdraw		
+
+
+		</Infinitive>
+		<SimplePast>outdrew
+
+		</SimplePast>
+		<PastParticiple>outdrawn
+
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>outshine	 	
+
+
+		</Infinitive>
+		<SimplePast>outshined / outshone
+
+		</SimplePast>
+		<PastParticiple>outshined / outshone 
+
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+outsell		
+
+		</Infinitive>
+		<SimplePast>
+outsold
+		</SimplePast>
+		<PastParticiple>
+outsold
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+outsee	
+
+		</Infinitive>
+		<SimplePast>
+outsaw
+		</SimplePast>
+		<PastParticiple>
+	outseen
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+outdrink		
+
+		</Infinitive>
+		<SimplePast>
+outdrank
+		</SimplePast>
+		<PastParticiple>
+outdrunk
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+outrun		
+
+		</Infinitive>
+		<SimplePast>outran
+
+		</SimplePast>
+		<PastParticiple>outrun
+
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+outride		
+
+		</Infinitive>
+		<SimplePast>
+outrode
+		</SimplePast>
+		<PastParticiple>outridden
+
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+output		
+
+		</Infinitive>
+		<SimplePast>output / outputted
+
+		</SimplePast>
+		<PastParticiple>output / outputted
+
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+outdrive		
+
+		</Infinitive>
+		<SimplePast>outdrove
+
+		</SimplePast>
+		<PastParticiple>outdriven
+
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+outfight		
+
+		</Infinitive>
+		<SimplePast>outfought
+
+		</SimplePast>
+		<PastParticiple>outfought
+
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+outfly		
+
+		</Infinitive>
+		<SimplePast>
+outflew
+		</SimplePast>
+		<PastParticiple>
+outflown
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+outgrow	
+
+		</Infinitive>
+		<SimplePast>
+outgrew	
+		</SimplePast>
+		<PastParticiple>
+outgrown
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+outlay	
+
+		</Infinitive>
+		<SimplePast>
+	outlaid
+		</SimplePast>
+		<PastParticiple>
+outlaid
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+outleap		
+
+		</Infinitive>
+		<SimplePast>
+outleaped / outleapt 
+		</SimplePast>
+		<PastParticiple>
+outleaped / outleapt 
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+partake
+
+		</Infinitive>
+		<SimplePast>
+partook	
+		</SimplePast>
+		<PastParticiple>
+	partaken
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+pay		
+		</Infinitive>
+		<SimplePast>
+paid
+		</SimplePast>
+		<PastParticiple>
+paid
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+plead		
+
+
+		</Infinitive>
+		<SimplePast>pleaded / pled
+
+		</SimplePast>
+		<PastParticiple>pleaded / pled
+
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+prebuild		
+		</Infinitive>
+		<SimplePast>
+prebuilt
+		</SimplePast>
+		<PastParticiple>
+prebuilt
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+predo	
+
+		</Infinitive>
+		<SimplePast>predid
+
+		</SimplePast>
+		<PastParticiple>	predone
+
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+premake	
+
+		</Infinitive>
+		<SimplePast>	premade
+
+		</SimplePast>
+		<PastParticiple>premade
+
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+put		
+
+		</Infinitive>
+		<SimplePast>
+put
+		</SimplePast>
+		<PastParticiple>
+put
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+prepay	
+
+		</Infinitive>
+		<SimplePast>prepaid	
+
+		</SimplePast>
+		<PastParticiple>prepaid
+
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+presell
+
+		</Infinitive>
+		<SimplePast>presold	
+
+		</SimplePast>
+		<PastParticiple>	presold
+
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+preset		
+
+		</Infinitive>
+		<SimplePast>preset
+
+		</SimplePast>
+		<PastParticiple>preset
+
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+preshrink		
+
+		</Infinitive>
+		<SimplePast>preshrank
+
+		</SimplePast>
+		<PastParticiple>preshrunk
+
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+presplit		
+
+		</Infinitive>
+		<SimplePast>presplit
+
+		</SimplePast>
+		<PastParticiple>presplit
+
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+proofread		
+
+		</Infinitive>
+		<SimplePast>proofread
+
+		</SimplePast>
+		<PastParticiple>
+proofread
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+prove	
+
+		</Infinitive>
+		<SimplePast>
+proved	
+		</SimplePast>
+		<PastParticiple>proven / proved
+
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+quick-freeze		
+
+		</Infinitive>
+		<SimplePast>quick-froze
+
+		</SimplePast>
+		<PastParticiple>quick-frozen
+
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+quit	 
+
+		</Infinitive>
+		<SimplePast>
+quit / quitted
+		</SimplePast>
+		<PastParticiple>	quit / quitted 
+
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+retear	
+		</Infinitive>
+		<SimplePast>
+retore	
+		</SimplePast>
+		<PastParticiple>retorn
+
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+retell		
+
+		</Infinitive>
+		<SimplePast>
+retold
+		</SimplePast>
+		<PastParticiple>retold
+
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+rethink	
+
+
+		</Infinitive>
+		<SimplePast>
+	rethought
+		</SimplePast>
+		<PastParticiple>
+rethought
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+retread		
+		</Infinitive>
+		<SimplePast>
+retread
+		</SimplePast>
+		<PastParticiple>retread
+
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+retrofit	 
+
+
+		</Infinitive>
+		<SimplePast>retrofitted / retrofit
+
+		</SimplePast>
+		<PastParticiple>	retrofitted / retrofit 
+
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+run		
+
+		</Infinitive>
+		<SimplePast>
+ran
+		</SimplePast>
+		<PastParticiple>run
+
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+rewake		
+		</Infinitive>
+		<SimplePast>
+rewoke / rewaked
+		</SimplePast>
+		<PastParticiple>rewaken / rewaked
+
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+rewear		
+
+		</Infinitive>
+		<SimplePast>rewore
+
+		</SimplePast>
+		<PastParticiple>reworn
+
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+reweave		
+		</Infinitive>
+		<SimplePast>
+rewove / reweaved
+		</SimplePast>
+		<PastParticiple>
+rewoven / reweaved
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+rewed		
+
+
+		</Infinitive>
+		<SimplePast>rewed / rewedded
+
+		</SimplePast>
+		<PastParticiple>rewed / rewedded
+
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+rewet		
+
+
+		</Infinitive>
+		<SimplePast>
+rewet / rewetted 
+		</SimplePast>
+		<PastParticiple>rewet / rewetted 
+
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+rewin		
+
+		</Infinitive>
+		<SimplePast>
+rewon
+		</SimplePast>
+		<PastParticiple>
+rewon
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+rewind	
+
+		</Infinitive>
+		<SimplePast>
+rewound	
+		</SimplePast>
+		<PastParticiple>
+rewound
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+rewrite
+
+		</Infinitive>
+		<SimplePast>
+	rewrote
+		</SimplePast>
+		<PastParticiple>
+	rewritten
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+rid	
+		</Infinitive>
+		<SimplePast>
+rid
+		</SimplePast>
+		<PastParticiple>
+	rid
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+ride		
+
+		</Infinitive>
+		<SimplePast>
+rode
+		</SimplePast>
+		<PastParticiple>ridden
+
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>ring
+
+
+		</Infinitive>
+		<SimplePast>rang	
+
+		</SimplePast>
+		<PastParticiple>	rung
+
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+rise		
+
+		</Infinitive>
+		<SimplePast>
+rose
+		</SimplePast>
+		<PastParticiple>
+risen
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+rive		
+
+		</Infinitive>
+		<SimplePast>
+rived
+		</SimplePast>
+		<PastParticiple>
+riven / rived
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+roughcast		
+
+		</Infinitive>
+		<SimplePast>
+roughcast
+		</SimplePast>
+		<PastParticiple>
+roughcast
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+regrind	
+		</Infinitive>
+		<SimplePast>
+	reground
+		</SimplePast>
+		<PastParticiple>
+reground
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+regrow		
+
+		</Infinitive>
+		<SimplePast>
+regrew
+		</SimplePast>
+		<PastParticiple>regrown
+
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+rehang		
+		</Infinitive>
+		<SimplePast>
+rehung
+		</SimplePast>
+		<PastParticiple>
+rehung
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+rehear	
+
+
+		</Infinitive>
+		<SimplePast>reheard	
+
+		</SimplePast>
+		<PastParticiple>reheard
+
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+reknit	
+
+		</Infinitive>
+		<SimplePast>reknitted / reknit
+
+		</SimplePast>
+		<PastParticiple>	reknitted / reknit
+
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+reteach	
+
+		</Infinitive>
+		<SimplePast>	retaught
+
+		</SimplePast>
+		<PastParticiple>retaught
+
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+relay		
+
+		</Infinitive>
+		<SimplePast>
+relaid
+		</SimplePast>
+		<PastParticiple>
+relaid
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+relearn	
+
+		</Infinitive>
+		<SimplePast>relearned / relearnt 
+
+		</SimplePast>
+		<PastParticiple>	relearned / relearnt 
+
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+relight	
+
+		</Infinitive>
+		<SimplePast>	relit / relighted
+
+		</SimplePast>
+		<PastParticiple>relit / relighted
+
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+remake		
+		</Infinitive>
+		<SimplePast>remade
+
+		</SimplePast>
+		<PastParticiple>remade
+
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+rend		
+
+
+		</Infinitive>
+		<SimplePast>rent / rended
+
+		</SimplePast>
+		<PastParticiple>rent / rended
+
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+repay		
+
+		</Infinitive>
+		<SimplePast>repaid
+
+		</SimplePast>
+		<PastParticiple>repaid
+
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+reread	
+		</Infinitive>
+		<SimplePast>
+reread
+		</SimplePast>
+		<PastParticiple>	reread
+
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+rerun		
+
+		</Infinitive>
+		<SimplePast>reran
+
+		</SimplePast>
+		<PastParticiple>rerun
+
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+resell	
+
+		</Infinitive>
+		<SimplePast>resold	
+
+		</SimplePast>
+		<PastParticiple>resold
+
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+resend		
+
+		</Infinitive>
+		<SimplePast>resent
+
+		</SimplePast>
+		<PastParticiple>resent
+
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+reset		
+
+		</Infinitive>
+		<SimplePast>reset
+
+		</SimplePast>
+		<PastParticiple>reset
+
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+resew		
+
+		</Infinitive>
+		<SimplePast>resewed
+
+		</SimplePast>
+		<PastParticiple>resewn / resewed
+
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+retake		
+
+		</Infinitive>
+		<SimplePast>retook
+
+		</SimplePast>
+		<PastParticiple>
+retaken
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+read		
+
+
+		</Infinitive>
+		<SimplePast>read
+
+		</SimplePast>
+		<PastParticiple>read
+
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+reawake	
+
+		</Infinitive>
+		<SimplePast>
+reawoke	
+		</SimplePast>
+		<PastParticiple>reawaken
+
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+rebid	
+
+		</Infinitive>
+		<SimplePast>rebid
+
+		</SimplePast>
+		<PastParticiple>	rebid
+
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+rebind		
+
+		</Infinitive>
+		<SimplePast>
+rebound
+		</SimplePast>
+		<PastParticiple>rebound
+
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+rebroadcast		
+
+		</Infinitive>
+		<SimplePast>rebroadcast / rebroadcasted
+
+		</SimplePast>
+		<PastParticiple>rebroadcast / rebroadcasted
+
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+rebuild
+
+		</Infinitive>
+		<SimplePast>rebuilt	
+
+		</SimplePast>
+		<PastParticiple>	rebuilt
+
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+recast		
+
+		</Infinitive>
+		<SimplePast>recast
+
+		</SimplePast>
+		<PastParticiple>recast
+
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+recut	
+
+		</Infinitive>
+		<SimplePast>
+recut
+		</SimplePast>
+		<PastParticiple>	recut
+
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+redeal	
+
+		</Infinitive>
+		<SimplePast>redealt	
+
+		</SimplePast>
+		<PastParticiple>redealt
+
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+redo	
+
+		</Infinitive>
+		<SimplePast>redid	
+
+		</SimplePast>
+		<PastParticiple>redone
+
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+redraw		
+
+		</Infinitive>
+		<SimplePast>
+redrew
+		</SimplePast>
+		<PastParticiple>redrawn
+
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+reeve		
+
+		</Infinitive>
+		<SimplePast>reeved / rove
+
+		</SimplePast>
+		<PastParticiple>reeved / rove
+
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+refit 	
+
+		</Infinitive>
+		<SimplePast>
+refit / refitted
+		</SimplePast>
+		<PastParticiple>refit / refitted 
+
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+sand-cast	
+
+
+		</Infinitive>
+		<SimplePast>	sand-cast
+
+		</SimplePast>
+		<PastParticiple>sand-cast
+
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+
+stink		
+		</Infinitive>
+		<SimplePast>
+stunk / stank
+		</SimplePast>
+		<PastParticiple>
+stunk
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+strew		
+
+		</Infinitive>
+		<SimplePast>
+strewed
+		</SimplePast>
+		<PastParticiple>
+strewn / strewed
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+stride		
+
+		</Infinitive>
+		<SimplePast>
+strode
+		</SimplePast>
+		<PastParticiple>
+stridden
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+strike 		
+
+		</Infinitive>
+		<SimplePast>
+struck
+		</SimplePast>
+		<PastParticiple>struck / stricken
+
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+string	
+
+		</Infinitive>
+		<SimplePast>strung
+
+		</SimplePast>
+		<PastParticiple>	strung
+
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+strip	 	
+
+		</Infinitive>
+		<SimplePast>
+stripped / stript
+		</SimplePast>
+		<PastParticiple>stripped / stript 
+
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+strive		
+
+		</Infinitive>
+		<SimplePast>
+strove / strived
+		</SimplePast>
+		<PastParticiple>striven / strived
+
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+sublet		
+
+		</Infinitive>
+		<SimplePast>sublet
+
+		</SimplePast>
+		<PastParticiple>sublet
+
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+sunburn	 	 
+
+		</Infinitive>
+		<SimplePast>
+sunburned / sunburnt
+		</SimplePast>
+		<PastParticiple>sunburned / sunburnt
+
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+swear		
+
+		</Infinitive>
+		<SimplePast>swore
+
+		</SimplePast>
+		<PastParticiple>sworn
+
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+sweat		
+
+		</Infinitive>
+		<SimplePast>sweat / sweated
+
+		</SimplePast>
+		<PastParticiple>sweat / sweated
+
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+sweep		
+
+		</Infinitive>
+		<SimplePast>
+swept
+		</SimplePast>
+		<PastParticiple>swept
+
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+swell		
+
+		</Infinitive>
+		<SimplePast>swelled
+
+		</SimplePast>
+		<PastParticiple>swollen / swelled
+
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+swim		
+
+		</Infinitive>
+		<SimplePast>swam
+
+		</SimplePast>
+		<PastParticiple>swum
+
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+swing		
+
+		</Infinitive>
+		<SimplePast>swung
+
+		</SimplePast>
+		<PastParticiple>swung
+
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+saw		
+
+		</Infinitive>
+		<SimplePast>sawed
+
+		</SimplePast>
+		<PastParticiple>sawed / sawn
+
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+say		
+
+		</Infinitive>
+		<SimplePast>
+said
+		</SimplePast>
+		<PastParticiple>said
+
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+see
+
+		</Infinitive>
+		<SimplePast>	saw	
+
+		</SimplePast>
+		<PastParticiple>seen
+
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+seek		
+
+		</Infinitive>
+		<SimplePast>sought
+
+		</SimplePast>
+		<PastParticiple>sought
+
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+self-feed	
+
+		</Infinitive>
+		<SimplePast>self-fed	
+
+		</SimplePast>
+		<PastParticiple>self-fed
+
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+self-sow		
+
+		</Infinitive>
+		<SimplePast>
+self-sowed
+		</SimplePast>
+		<PastParticiple>self-sown / self-sowed
+
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+sell	
+
+		</Infinitive>
+		<SimplePast>
+sold
+		</SimplePast>
+		<PastParticiple>
+	sold
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+send		
+
+		</Infinitive>
+		<SimplePast>
+sent
+		</SimplePast>
+		<PastParticiple>sent
+
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+set		
+
+		</Infinitive>
+		<SimplePast>
+set
+		</SimplePast>
+		<PastParticiple>
+set
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+sew		
+
+
+		</Infinitive>
+		<SimplePast>
+sewed
+		</SimplePast>
+		<PastParticiple>
+sewn / sewed
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+shake	
+		</Infinitive>
+		<SimplePast>
+shook	
+		</SimplePast>
+		<PastParticiple>
+shaken
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+shave	
+
+		</Infinitive>
+		<SimplePast>
+shaved	
+		</SimplePast>
+		<PastParticiple>shaved / shaven
+
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+shear		
+
+		</Infinitive>
+		<SimplePast>
+sheared
+		</SimplePast>
+		<PastParticiple>sheared / shorn
+
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+shed		
+
+
+		</Infinitive>
+		<SimplePast>
+shed
+		</SimplePast>
+		<PastParticiple>shed
+
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+shine		
+
+		</Infinitive>
+		<SimplePast>
+shined / shone 
+		</SimplePast>
+		<PastParticiple>shined / shone 
+
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+shit	
+		</Infinitive>
+		<SimplePast>
+	shit / shat / shitted
+		</SimplePast>
+		<PastParticiple>
+shit / shat / shitted
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+shoe	
+
+		</Infinitive>
+		<SimplePast>
+shoed / shod	
+		</SimplePast>
+		<PastParticiple>shoed / shod
+
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+shoot		
+
+		</Infinitive>
+		<SimplePast>
+shot
+		</SimplePast>
+		<PastParticiple>shot
+
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+smell		
+		</Infinitive>
+		<SimplePast>
+smelled / smelt 
+		</SimplePast>
+		<PastParticiple>smelled / smelt 
+
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+smite		
+
+		</Infinitive>
+		<SimplePast>
+smote
+		</SimplePast>
+		<PastParticiple>smitten / smote
+
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+sneak	
+
+		</Infinitive>
+		<SimplePast>sneaked / snuck	
+
+		</SimplePast>
+		<PastParticiple>sneaked / snuck
+
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+sow		
+
+		</Infinitive>
+		<SimplePast>
+sowed
+		</SimplePast>
+		<PastParticiple>sown / sowed
+
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+speak		
+
+		</Infinitive>
+		<SimplePast>
+spoke
+		</SimplePast>
+		<PastParticiple>spoken
+
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+speed		
+
+		</Infinitive>
+		<SimplePast>sped / speeded
+
+		</SimplePast>
+		<PastParticiple>sped / speeded
+
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+spell	
+
+
+		</Infinitive>
+		<SimplePast>spelled / spelt 
+
+		</SimplePast>
+		<PastParticiple>	spelled / spelt 
+
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+spend		
+		</Infinitive>
+		<SimplePast>
+spent
+		</SimplePast>
+		<PastParticiple>
+spent
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+spill	 	
+
+		</Infinitive>
+		<SimplePast>spilled / spilt
+
+		</SimplePast>
+		<PastParticiple>spilled / spilt 
+
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+spin		
+
+		</Infinitive>
+		<SimplePast>
+spun
+		</SimplePast>
+		<PastParticiple>spun
+
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+spit		
+
+		</Infinitive>
+		<SimplePast>spit / spat
+
+		</SimplePast>
+		<PastParticiple>spit / spat
+
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+split		
+
+		</Infinitive>
+		<SimplePast>
+split
+		</SimplePast>
+		<PastParticiple>split
+
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+spoil		
+
+		</Infinitive>
+		<SimplePast>
+spoiled / spoilt 
+		</SimplePast>
+		<PastParticiple>spoiled / spoilt 
+
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+show		
+
+
+		</Infinitive>
+		<SimplePast>
+showed
+		</SimplePast>
+		<PastParticiple>
+shown / showed
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+shrive		
+		</Infinitive>
+		<SimplePast>
+shrived / shrove
+		</SimplePast>
+		<PastParticiple>shriven
+
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+shrink		
+
+		</Infinitive>
+		<SimplePast>
+shrank / shrunk
+		</SimplePast>
+		<PastParticiple>
+shrunk
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+shut		
+
+		</Infinitive>
+		<SimplePast>
+shut
+		</SimplePast>
+		<PastParticiple>shut
+
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+sight-read		
+
+		</Infinitive>
+		<SimplePast>
+sight-read
+		</SimplePast>
+		<PastParticiple>sight-read
+
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+sing	
+
+		</Infinitive>
+		<SimplePast>
+sang	
+		</SimplePast>
+		<PastParticiple>
+sung
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+sink		
+
+		</Infinitive>
+		<SimplePast>
+sank / sunk
+		</SimplePast>
+		<PastParticiple>sunk
+
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>sit		
+
+
+		</Infinitive>
+		<SimplePast>
+sat
+		</SimplePast>
+		<PastParticiple>
+sat
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+skywrite		
+
+		</Infinitive>
+		<SimplePast>
+skywrote
+		</SimplePast>
+		<PastParticiple>skywritten
+
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+slay 	
+
+		</Infinitive>
+		<SimplePast>
+slew / slayed	
+		</SimplePast>
+		<PastParticiple>slain / slayed
+
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+sleep	
+
+		</Infinitive>
+		<SimplePast>
+slept
+		</SimplePast>
+		<PastParticiple>
+	slept
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+slide		
+
+		</Infinitive>
+		<SimplePast>
+slid
+		</SimplePast>
+		<PastParticiple>
+slid
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+sling		
+
+		</Infinitive>
+		<SimplePast>
+slung
+		</SimplePast>
+		<PastParticiple>
+slung
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+slit		
+		</Infinitive>
+		<SimplePast>
+slit
+		</SimplePast>
+		<PastParticiple>
+slit
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>slink		
+
+
+		</Infinitive>
+		<SimplePast>slinked / slunk
+
+		</SimplePast>
+		<PastParticiple>slinked / slunk
+
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+spoon-feed		
+
+		</Infinitive>
+		<SimplePast>spoon-fed
+
+		</SimplePast>
+		<PastParticiple>spoon-fed
+
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+spread		
+		</Infinitive>
+		<SimplePast>
+spread
+		</SimplePast>
+		<PastParticiple>spread
+
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+spring		
+
+
+		</Infinitive>
+		<SimplePast>sprang / sprung
+
+		</SimplePast>
+		<PastParticiple>sprung
+
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+stall-feed		
+
+		</Infinitive>
+		<SimplePast>
+stall-fed
+		</SimplePast>
+		<PastParticiple>stall-fed
+
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+stand		
+
+		</Infinitive>
+		<SimplePast>
+stood
+		</SimplePast>
+		<PastParticiple>stood
+
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>stave		
+
+
+		</Infinitive>
+		<SimplePast>
+staved / stove
+		</SimplePast>
+		<PastParticiple>staved / stove
+
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+steal		
+
+		</Infinitive>
+		<SimplePast>
+stole
+		</SimplePast>
+		<PastParticiple>
+stolen
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+stick		
+		</Infinitive>
+		<SimplePast>
+stuck
+		</SimplePast>
+		<PastParticiple>
+stuck
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+sting	
+
+		</Infinitive>
+		<SimplePast>
+stung	
+		</SimplePast>
+		<PastParticiple>
+stung
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+take		
+		</Infinitive>
+		<SimplePast>
+took
+		</SimplePast>
+		<PastParticiple>
+taken
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+typecast		
+
+		</Infinitive>
+		<SimplePast>
+typecast
+		</SimplePast>
+		<PastParticiple>
+typecast
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+typewrite	
+
+		</Infinitive>
+		<SimplePast>
+typewrote	
+		</SimplePast>
+		<PastParticiple>
+typewritten
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>typeset	
+
+
+		</Infinitive>
+		<SimplePast>	typeset
+
+		</SimplePast>
+		<PastParticiple>typeset
+
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+teach		
+
+
+		</Infinitive>
+		<SimplePast>
+taught
+		</SimplePast>
+		<PastParticiple>
+taught
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+tear	
+
+		</Infinitive>
+		<SimplePast>
+tore	
+		</SimplePast>
+		<PastParticiple>
+torn
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+telecast		
+		</Infinitive>
+		<SimplePast>
+telecast
+		</SimplePast>
+		<PastParticiple>
+telecast
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+tell		
+
+
+		</Infinitive>
+		<SimplePast>
+told
+		</SimplePast>
+		<PastParticiple>
+told
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+test-fly	
+		</Infinitive>
+		<SimplePast>
+test-flew
+		</SimplePast>
+		<PastParticiple>
+	test-flown
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+test-drive		
+
+		</Infinitive>
+		<SimplePast>
+test-drove
+		</SimplePast>
+		<PastParticiple>
+test-driven
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+think		
+
+		</Infinitive>
+		<SimplePast>
+thought
+		</SimplePast>
+		<PastParticiple>thought
+
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+thrive		
+
+		</Infinitive>
+		<SimplePast>thrived / throve
+
+		</SimplePast>
+		<PastParticiple>thrived / thriven
+
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+throw		
+
+
+		</Infinitive>
+		<SimplePast>threw
+
+		</SimplePast>
+		<PastParticiple>thrown
+
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+thrust	
+		</Infinitive>
+		<SimplePast>
+thrust	
+		</SimplePast>
+		<PastParticiple>thrust
+
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+tread		
+		</Infinitive>
+		<SimplePast>
+trod
+		</SimplePast>
+		<PastParticiple>trodden / trod
+
+
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+troubleshoot		
+
+		</Infinitive>
+		<SimplePast>
+troubleshot
+		</SimplePast>
+		<PastParticiple>troubleshot
+
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+unbear		
+
+		</Infinitive>
+		<SimplePast>
+unbore
+		</SimplePast>
+		<PastParticiple>
+unborn / unborne
+
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+unreeve		
+		</Infinitive>
+		<SimplePast>
+unreeved / unrove
+		</SimplePast>
+		<PastParticiple>unreeved / unrove
+
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+unsay		
+
+		</Infinitive>
+		<SimplePast>unsaid
+
+		</SimplePast>
+		<PastParticiple>unsaid
+
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+unsew		
+		</Infinitive>
+		<SimplePast>
+unsewed
+		</SimplePast>
+		<PastParticiple>unsewn / unsewed
+
+
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+unsling
+
+
+		</Infinitive>
+		<SimplePast>	unslung
+
+		</SimplePast>
+		<PastParticiple>	unslung
+
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+unspin		
+
+		</Infinitive>
+		<SimplePast>unspun
+
+		</SimplePast>
+		<PastParticiple>unspun
+
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+unstick	
+
+		</Infinitive>
+		<SimplePast>
+	unstuck
+		</SimplePast>
+		<PastParticiple>unstuck
+
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+unstring	
+
+		</Infinitive>
+		<SimplePast>unstrung	
+
+		</SimplePast>
+		<PastParticiple>unstrung
+
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+unswear		
+
+		</Infinitive>
+		<SimplePast>
+unswore
+		</SimplePast>
+		<PastParticiple>unsworn
+
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+unteach		
+
+		</Infinitive>
+		<SimplePast>
+untaught
+		</SimplePast>
+		<PastParticiple>untaught
+
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+unthink		
+
+		</Infinitive>
+		<SimplePast>
+unthought
+		</SimplePast>
+		<PastParticiple>unthought
+
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+unweave		
+
+		</Infinitive>
+		<SimplePast>
+unwove / unweaved
+		</SimplePast>
+		<PastParticiple>
+unwoven / unweaved
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+unwind		
+
+		</Infinitive>
+		<SimplePast>
+unwound
+		</SimplePast>
+		<PastParticiple>
+unwound
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+unwrite		
+		</Infinitive>
+		<SimplePast>
+unwrote
+		</SimplePast>
+		<PastParticiple>
+unwritten
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+uphold		
+
+		</Infinitive>
+		<SimplePast>
+upheld
+		</SimplePast>
+		<PastParticiple>
+upheld
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+upset		
+
+		</Infinitive>
+		<SimplePast>
+upset
+		</SimplePast>
+		<PastParticiple>upset
+
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+undo	
+		</Infinitive>
+		<SimplePast>
+undid	
+		</SimplePast>
+		<PastParticiple>undone
+
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+undraw		
+
+		</Infinitive>
+		<SimplePast>
+undrew
+		</SimplePast>
+		<PastParticiple>
+undrawn
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+unfreeze		
+
+		</Infinitive>
+		<SimplePast>
+unfroze
+		</SimplePast>
+		<PastParticiple>
+unfrozen
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+unhang		
+
+		</Infinitive>
+		<SimplePast>
+unhung
+		</SimplePast>
+		<PastParticiple>
+unhung
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+unhide
+
+
+		</Infinitive>
+		<SimplePast>
+unhid	
+		</SimplePast>
+		<PastParticiple>
+	unhidden
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+unhold	
+		</Infinitive>
+		<SimplePast>
+unheld	
+		</SimplePast>
+		<PastParticiple>
+unheld
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+unknit		
+
+
+		</Infinitive>
+		<SimplePast>
+unknitted / unknit
+		</SimplePast>
+		<PastParticiple>
+unknitted / unknit
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+unlade		
+
+		</Infinitive>
+		<SimplePast>
+unladed
+		</SimplePast>
+		<PastParticiple>
+unladen / unladed
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+unlay		
+
+		</Infinitive>
+		<SimplePast>
+unlaid
+		</SimplePast>
+		<PastParticiple>
+unlaid
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+unlearn	 	 
+		</Infinitive>
+		<SimplePast>
+unlearned / unlearnt
+		</SimplePast>
+		<PastParticiple>
+unlearned / unlearnt
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+unmake
+
+		</Infinitive>
+		<SimplePast>
+	unmade	
+		</SimplePast>
+		<PastParticiple>
+unmade
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+unbend		
+		</Infinitive>
+		<SimplePast>
+unbent
+		</SimplePast>
+		<PastParticiple>
+unbent
+
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+unbind		
+
+		</Infinitive>
+		<SimplePast>
+unbound
+		</SimplePast>
+		<PastParticiple>unbound
+
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+unbuild	
+
+		</Infinitive>
+		<SimplePast>unbuilt	
+
+		</SimplePast>
+		<PastParticiple>unbuilt
+
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+unclothe	 	
+
+		</Infinitive>
+		<SimplePast>unclothed / unclad
+
+		</SimplePast>
+		<PastParticiple>unclothed / unclad 
+
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+underbid		
+
+		</Infinitive>
+		<SimplePast>underbid
+
+		</SimplePast>
+		<PastParticiple>underbid
+
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+underbuy	
+
+		</Infinitive>
+		<SimplePast>
+underbought	
+		</SimplePast>
+		<PastParticiple>underbought
+
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+undercut		
+
+
+		</Infinitive>
+		<SimplePast>undercut
+
+		</SimplePast>
+		<PastParticiple>undercut
+
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+underfeed
+		</Infinitive>
+		<SimplePast>
+underfed	
+		</SimplePast>
+		<PastParticiple>
+	underfed
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+underwrite		
+
+		</Infinitive>
+		<SimplePast>
+underwrote
+		</SimplePast>
+		<PastParticiple>underwritten
+
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+undergo		
+
+
+		</Infinitive>
+		<SimplePast>
+underwent
+		</SimplePast>
+		<PastParticiple>
+undergone
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+underlay		
+		</Infinitive>
+		<SimplePast>
+underlaid
+		</SimplePast>
+		<PastParticiple>
+underlaid
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+underlet		
+
+		</Infinitive>
+		<SimplePast>
+underlet
+		</SimplePast>
+		<PastParticiple>
+underlet
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+underlie	
+
+		</Infinitive>
+		<SimplePast>
+underlay	
+		</SimplePast>
+		<PastParticiple>
+underlain
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+underrun		
+
+		</Infinitive>
+		<SimplePast>
+underran
+		</SimplePast>
+		<PastParticiple>
+underrun
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+undersell	
+
+
+		</Infinitive>
+		<SimplePast>
+undersold	
+		</SimplePast>
+		<PastParticiple>
+undersold
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+undershoot	
+		</Infinitive>
+		<SimplePast>
+undershot	
+		</SimplePast>
+		<PastParticiple>
+undershot
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+underspend		
+		</Infinitive>
+		<SimplePast>underspent
+
+		</SimplePast>
+		<PastParticiple>underspent
+
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+understand		
+
+
+
+		</Infinitive>
+		<SimplePast>understood
+
+		</SimplePast>
+		<PastParticiple>understood
+
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+undertake	
+		</Infinitive>
+		<SimplePast>undertook	
+
+		</SimplePast>
+		<PastParticiple>undertaken
+
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+underthrust	
+
+		</Infinitive>
+		<SimplePast>
+	underthrust
+		</SimplePast>
+		<PastParticiple>
+underthrust
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+vex		 
+		</Infinitive>
+		<SimplePast>
+vexed / vext 
+		</SimplePast>
+		<PastParticiple>
+vexed / vext
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+wake		
+
+
+		</Infinitive>
+		<SimplePast>
+woke / waked
+		</SimplePast>
+		<PastParticiple>
+woken / waked
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+waylay	
+		</Infinitive>
+		<SimplePast>
+waylaid	
+		</SimplePast>
+		<PastParticiple>
+waylaid
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+write		
+
+		</Infinitive>
+		<SimplePast>
+wrote
+		</SimplePast>
+		<PastParticiple>
+written
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+wear		
+
+		</Infinitive>
+		<SimplePast>
+wore
+		</SimplePast>
+		<PastParticiple>
+worn
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+weave		
+
+		</Infinitive>
+		<SimplePast>
+wove / weaved
+		</SimplePast>
+		<PastParticiple>
+woven / weaved
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+wed		
+
+		</Infinitive>
+		<SimplePast>
+wed / wedded
+		</SimplePast>
+		<PastParticiple>
+wed / wedded
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+weep		
+
+		</Infinitive>
+		<SimplePast>
+wept
+		</SimplePast>
+		<PastParticiple>
+wept
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+wet	 	 
+
+
+		</Infinitive>
+		<SimplePast>
+wet / wetted
+		</SimplePast>
+		<PastParticiple>
+wet / wetted
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>win		
+
+
+		</Infinitive>
+		<SimplePast>
+won
+		</SimplePast>
+		<PastParticiple>
+won
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+wind		
+
+		</Infinitive>
+		<SimplePast>
+wound
+		</SimplePast>
+		<PastParticiple>
+wound
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+withdraw		
+		</Infinitive>
+		<SimplePast>
+withdrew
+		</SimplePast>
+		<PastParticiple>
+withdrawn
+
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+withstand	
+		</Infinitive>
+		<SimplePast>
+withstood	
+		</SimplePast>
+		<PastParticiple>
+withstood
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+withhold		
+
+		</Infinitive>
+		<SimplePast>
+withheld
+		</SimplePast>
+		<PastParticiple>
+withheld
+		</PastParticiple>
+	</Verb>
+	<Verb>
+		<Infinitive>
+wring		
+
+		</Infinitive>
+		<SimplePast>
+wrung
+		</SimplePast>
+		<PastParticiple>
+wrung
+		</PastParticiple>
+	</Verb>
+	
+</Verbs>

@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Cities>
+	<City key="1" value="臺北市"></City>
+	<City key="2" value="新北市"></City>
+	<City key="3" value="臺中市"></City>
+	<City key="4" value="臺南市"></City>
+	<City key="5" value="高雄市"></City>
+	<City key="6" value="基隆市"></City>
+	<City key="7" value="新竹市"></City>
+	<City key="8" value="嘉義市"></City>
+	<City key="9" value="桃園縣"></City>
+	<City key="10" value="新竹縣"></City>
+	<City key="11" value="苗栗縣"></City>
+	<City key="12" value="彰化縣"></City>
+	<City key="13" value="南投縣"></City>
+	<City key="14" value="雲林縣"></City>
+	<City key="15" value="嘉義縣"></City>
+	<City key="16" value="屏東縣"></City>
+	<City key="17" value="宜蘭縣"></City>
+	<City key="18" value="花蓮縣"></City>
+	<City key="19" value="臺東縣"></City>
+	<City key="20" value="澎湖縣"></City>
+	<City key="21" value="金門縣"></City>
+	<City key="22" value="連江縣"></City>
+	<City key="23" value="其他"></City>	
+</Cities>

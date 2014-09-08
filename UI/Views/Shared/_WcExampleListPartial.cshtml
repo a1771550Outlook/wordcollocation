@@ -1,0 +1,42 @@
+﻿@using BLL.Helpers
+@using UI.Helpers
+@model WcExample
+@{
+	var culturename = CultureHelper.GetCurrentCulture();
+	var exZht = Model.EntryZht;
+	var exZhs = Model.EntryZhs;
+	var exJap = Model.EntryJap;
+	string exTrans;
+	if (culturename.Contains("hans"))
+	{
+		exTrans = exZhs;
+	}
+	else if (culturename.Contains("ja"))
+	{
+		exTrans = exJap;
+	}
+	else
+	{
+		exTrans = exZht;
+	}
+	var sourceRemark = WcHelper.GetSourceRemark(Model);
+	var collocation = BLLHelper.GetCollocationByCollocationId(Model.CollocationId);
+	var formattedExample = WcHelper.GetFormattedExample(Model.Entry, collocation);
+}
+<table id="ExampleList" class="table table-striped table-hover">
+	<tbody>
+		<tr>
+			<td>
+				<div class="exampleDiv">
+					<div class="indent-1em marginBottom05em exampleText">@Html.Raw(formattedExample)</div>
+
+					<div class="indent-1em marginBottom05em exampleTransText">@Html.Raw(exTrans)</div>
+					<div class="indent-1em exampleSourceText">@Html.Raw(sourceRemark)</div>
+
+				</div>
+			</td>
+		</tr>
+
+	</tbody>
+</table>
+

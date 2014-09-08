@@ -1,0 +1,29 @@
+﻿@using UI.Helpers
+@using UI.Models
+@model WcSearchViewModel
+
+@*@{
+	string action = null, controller = null;
+	switch (Model.ViewMode)
+	{
+		case ViewMode.Admin:
+			action = "Index";
+			controller = "Admin";
+			break;
+		case ViewMode.Home:
+			action = "Search";
+			controller = "Home";
+			break;
+	}
+}*@
+
+<div id="listDiv" class="marginTop3em alignLeft">
+	@foreach (var collocation in Model.CollocationList)
+	{
+		@Html.Partial("_WordListPartial", collocation)
+	}
+</div>
+
+<div class="pagination">
+	@Html.PageLinks(Model.CollocationPagingInfo, x => Url.Action(Model.Action, Model.Controller, new { page = x }))
+</div>

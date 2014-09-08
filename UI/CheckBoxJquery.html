@@ -1,0 +1,21 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>CheckBox Jquery</title>
+	<script src="Scripts/jquery-1.10.2.min.js"></script>
+	<script>
+		$('#toggleCheck').change(function() {
+			$('#toggleDiv').toggle();
+		});
+	</script>
+</head>
+<body>
+	<form method="get" action="#">
+		<input type="checkbox" id="toggleCheck" name="toggleCheck" value="something"/>
+		<div id="toggleDiv">
+			This is the content of toggle div.
+		</div>
+
+	</form>
+</body>
+</html>

@@ -1,0 +1,49 @@
+﻿@model UI.Models.EditUserViewModel
+
+@{
+	ViewBag.Title = "Edit";
+}
+
+<h3>@ViewBag.Title</h3>
+
+@using (Html.BeginForm("Edit", "UsersAdmin", FormMethod.Post, new { @class = "contact-form" }))
+{
+	@Html.AntiForgeryToken()
+
+	<div class="form-horizontal">
+		@Html.ValidationSummary(true)
+		@Html.HiddenFor(model => model.Id)
+
+		<fieldset class="email">
+			@Html.LabelFor(model => model.Email)
+			@Html.TextBoxFor(m => m.Email)
+			@Html.ValidationMessageFor(model => model.Email)
+
+		</fieldset>
+
+
+		@Html.Label("Roles")
+
+		@foreach (var item in Model.RolesList)
+		{
+			<fieldset style="width:45%; clear:both;">
+				<label for="SelectedRole" style="display:inline-block;float:left;width:20%;">@item.Value</label>
+				<input type="checkbox" name="SelectedRole" value="@item.Value" checked="@item.Selected" style="position:relative; top:1.9em;" />
+			</fieldset>
+		}
+
+
+
+		<fieldset class="what clearRight">
+			<button type="submit">@Resources.Send</button>
+		</fieldset>
+	</div>
+}
+
+<div>
+	@Html.ActionLink("Back to List", "Index")
+</div>
+
+@section Scripts {
+	@Scripts.Render("~/bundles/jqueryval")
+}

@@ -1,0 +1,45 @@
+﻿@using UI.Controllers.Abstract
+@model List<WcExample>
+
+@{
+	List<SelectListItem> sourceList = (List<SelectListItem>)ViewData["SourceList"];
+	List<SelectListItem> collocationIdDropDownList = (List<SelectListItem>) ViewData["CollocationIdDropDownList"];
+	string title = (string)ViewData["Title"];
+	CreateMode mode = (CreateMode) ViewData["CreateMode"];
+	ViewDataDictionary dict = new ViewDataDictionary();
+	dict.Add("Title", title);
+	dict.Add("SourceList",sourceList);
+	dict.Add("CollocationIdDropDownList", collocationIdDropDownList);
+	dict.Add("CreateMode", mode);
+}
+
+
+<hr />
+@Html.ValidationSummary(false, "", new { @class = "text-danger" })
+
+@if (ViewBag.ErrorMessage != null)
+{
+	<p class="alert">ErrorMessage: @ViewBag.ErrorMessage</p>
+}
+@if (ViewBag.InnerMessage != null)
+{
+	<p class="alert">ErrorMessage: @ViewBag.InnerMessage</p>
+}
+
+@if (ViewBag.IsDuplicatedEntry != null)
+{
+	<p class="alert">ErrorMessage: @Resources.DuplicatedEntry</p>
+}
+
+<div class="">
+	@foreach (WcExample model in Model)
+	{
+		using (Html.BeginForm("Edit", "WcExample", FormMethod.Post, new { @class = "search-form", id="ExampleForm" }))
+		{
+			@Html.AntiForgeryToken()
+
+			@Html.Partial("_WcExampleFields", model, dict)
+		}
+	}
+</div>
+

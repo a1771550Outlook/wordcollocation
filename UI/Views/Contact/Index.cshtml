@@ -1,0 +1,56 @@
+﻿@model Contact
+
+@{
+	ViewBag.Title = Resources.Contact;
+	Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h3>@Resources.Contact</h3>
+
+<p class="lead">@Resources.ContactParagraph</p>
+
+@if (!string.IsNullOrEmpty(ViewBag.MessageOK))
+{
+	<h4>@ViewBag.MessageOK</h4>
+}
+
+@using (Html.BeginForm("Index", "Contact", FormMethod.Post, new { @class = "contact-form" }))
+{
+	@Html.AntiForgeryToken()
+
+	<div>
+		<hr />
+		@Html.ValidationSummary()
+
+		<fieldset class="who">
+			
+			<div class="form-group">
+				@Html.LabelFor(model => model.Email)
+				<div>
+					@Html.EditorFor(model => model.Email,new{@class="text"})
+				</div>
+			</div>
+			
+		</fieldset>
+
+		<fieldset class="what">
+			<div class="form-group">
+				@Html.LabelFor(model => model.Message)
+				<div>
+					@Html.TextAreaFor(model => model.Message, new{rows="10",cols="30"})
+					
+				</div>
+			</div>
+			
+			<button type="submit">@Resources.Send</button>
+		</fieldset>
+	</div>
+	@section Scripts {
+		@Scripts.Render("~/bundles/jqueryval")
+		<script type="text/javascript">
+			//(function ($) {
+				
+			//})(jQuery);
+		</script>
+	}
+}

@@ -1,0 +1,127 @@
+﻿@using UI.Helpers
+@model UI.Models.WcExampleViewModel
+
+@{
+	ViewBag.Title = "Index";
+	Layout = "~/Views/Shared/_LayoutFullWidth.cshtml";
+	string action = User.IsInRole("Admin") ? "IndexForAdmin" : "IndexForEditor";
+}
+<style>
+	.text-smaller {
+		font-size: .6em;
+	}
+</style>
+
+<h4>Example</h4>
+<div>
+	<p>
+		@Html.ActionLink("Create New", "Edit", "WcExample", new { id = 0 }, null)
+	</p>
+</div>
+
+
+<table class="table">
+
+	@foreach (var items in Model.WcExampleListInGroup)
+	{
+		<thead>
+			<tr>
+				<td style="border-top:none;">ColId: @items.Key</td>
+			</tr>
+		</thead>
+
+		<tbody>
+			<tr>
+				<td>
+					<table class="table">
+						<thead>
+							<tr>
+								<th style="width:40%;">
+									Entry
+								</th>
+								<th style="width:15%;">
+									條目
+								</th>
+								<th style="width:15%;">
+									条目
+								</th>
+								<th style="width:15%;">
+									エントリー
+								</th>
+								<th style="width:5%;"><span class="h6">Source</span></th>
+								<th style="width:5%;"><span class="h6">Remark</span></th>
+								<th style="width:5%;"></th>
+							</tr>
+						</thead>
+
+						<tbody>
+							@foreach (var item in items)
+							{
+								<tr>
+									<td>
+
+										@{
+								WcExample item1 = item;
+										}
+										@Html.DisplayFor(modelItem => item1.Entry)
+									</td>
+									<td>
+
+										@{
+								WcExample item2 = item;
+										}
+										@Html.DisplayFor(modelItem => item2.EntryZht)
+									</td>
+									<td>
+										@{
+								WcExample item9 = item;
+										}
+										@Html.DisplayFor(modelItem => item9.EntryZhs)
+									</td>
+
+									<td>
+
+										@{
+								WcExample item3 = item;
+										}
+										@Html.DisplayFor(modelItem => item3.EntryJap)
+									</td>
+									<td>
+										@{
+								WcExample item4 = item;
+										}
+										<span class="text-smaller">@Html.DisplayFor(modelItem => item4.Source)</span>
+									</td>
+									<td>
+										@{WcExample item5 = item;}
+										<span class="text-smaller">
+											@Html.DisplayFor(modelItem => item5.RemarkZht, null, new { @class = "text-smaller" })|@{
+								WcExample item6 = item;}
+											@Html.DisplayFor(modelItem => item6.RemarkZhs, new { @class = "text-smaller" })|@{
+								WcExample item7 = item;}
+											@Html.DisplayFor(modelItem => item7.RemarkJap, new { @class = "text-smaller" })</span>
+</td>
+									<td>
+										<span class="text-smaller">
+											@Html.ActionLink("Edit", "Edit", new { id = item.Id }) | 
+											@Html.ActionLink("Delete", "Delete", new { id = item.Id }, new { id = item.Id, returnUrl = Request.Url, onclick = string.Format("return confirm('{0}');", Resources.ConfirmDelete) })</span>
+</td>
+								</tr>
+							}
+						</tbody>
+					</table>
+					<h4>&nbsp;</h4>
+				</td>
+			</tr>
+
+		</tbody>
+
+	}
+
+</table>
+
+
+
+<div class="pagination">
+	@Html.PageLinks(Model.WcExamplePagingInfo, x => Url.Action(action, "WcExample", new { page = x }))
+</div>

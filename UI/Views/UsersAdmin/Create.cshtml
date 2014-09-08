@@ -1,0 +1,49 @@
+﻿@model UI.Models.RegisterViewModel
+@{
+    ViewBag.Title = "Create";
+}
+
+@using (Html.BeginForm("Create", "UsersAdmin", FormMethod.Post, new { @class = "form-horizontal", role = "form", style="position:relative; top:-2em;" }))
+{
+    @Html.AntiForgeryToken()
+    
+    @Html.ValidationSummary("", new { @class = "text-error" })
+
+	<div class="form-group">
+		@Html.TextBoxFor(m => m.UserName, new { placeholder = Resources.UserName })
+	</div>
+	<div class="form-group">
+
+		@Html.TextBoxFor(m => m.Email, new { placeholder = Resources.Email })
+
+	</div>
+	<div class="form-group">
+		@Html.PasswordFor(m => m.Password, new { placeholder = Resources.Password })
+
+	</div>
+	<div class="form-group">
+
+		@Html.PasswordFor(m => m.ConfirmPassword, new { placeholder = Resources.ConfirmPassword })
+
+	</div>
+    <div class="form-group">
+        <label class="">
+            Select User Role
+        </label>
+        <div>
+            @foreach (var item in (SelectList)ViewBag.RoleId)
+            {
+                <input type="checkbox" name="SelectedRoles" value="@item.Value" class="checkbox-inline" style="" />
+                @Html.Label(item.Value, new { @class = "control-label", style="margin-right:1em;" })
+	           <br/>
+            }
+        </div>
+    </div>
+    <div class="form-group clearBoth">
+        <button type="submit">Create</button>
+    </div>
+}
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}

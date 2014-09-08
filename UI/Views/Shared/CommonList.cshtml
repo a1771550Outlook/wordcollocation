@@ -1,0 +1,58 @@
+﻿@using UI.Models.Abstract
+@model IEnumerable<BLL.Abstract.WcBase>
+
+@{
+	WcEntity Entity = (WcEntity)Enum.Parse(typeof(WcEntity), ViewBag.Entity.ToString(), true);
+}
+
+<div class="offset1"></div>
+<h2>@Entity.ToString()</h2>
+
+	<p>
+		@Html.ActionLink("Create New", "Edit", Entity.ToString(), new { id = "0" }, null)
+	</p>
+	<table class="table">
+		<tr>
+			<th>
+				@Html.DisplayNameFor(model => model.Entry)
+			</th>
+			<th>
+				@Html.DisplayNameFor(model => model.EntryZht)
+			</th>
+			<th>
+				@Html.DisplayNameFor(model => model.EntryZhs)
+			</th>
+			<th>
+				@Html.DisplayNameFor(model => model.EntryJap)
+			</th>
+
+			<th></th>
+		</tr>
+
+		@foreach (var item in Model)
+		{
+			<tr>
+				<td>
+					@Html.DisplayFor(modelItem => item.Entry)
+				</td>
+				<td>
+					@Html.DisplayFor(modelItem => item.EntryZht)
+				</td>
+				<td>
+					@Html.DisplayFor(modelItem => item.EntryZhs)
+				</td>
+				<td>
+					@Html.DisplayFor(modelItem => item.EntryJap)
+				</td>
+
+				<td>
+					@Html.ActionLink("Edit", "Edit", Entity.ToString(), new { id = item.Id }, null)
+					@if (item.CanDel != null && item.CanDel.Value)
+					{
+						@Html.Raw(" | ") @Html.ActionLink("Delete", "Delete", Entity.ToString(), new { id = item.Id }, new { id = item.Id, returnUrl = Request.Url, onclick = string.Format("return confirm('{0}');", Resources.ConfirmDelete) })
+					}
+				</td>
+			</tr>
+		}
+
+	</table>

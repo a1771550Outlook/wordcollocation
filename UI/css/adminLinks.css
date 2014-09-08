@@ -1,0 +1,32 @@
+﻿ul.adminLinks {
+	list-style: none;
+	margin-bottom: 3em;
+}
+
+	ul.adminLinks li {
+		float: left;
+		margin-right: 1em;
+	}
+
+		ul.adminLinks li a:link, a:visited, a:hover, a:active {
+			text-decoration: none !important;
+		}
+
+		ul.adminLinks li a:link {
+			color: #9b7188;
+		}
+
+		ul.adminLinks li a:visited {
+			color: #9b7188;
+			cursor: default !important;
+		}
+
+		ul.adminLinks li a:hover {
+			color: #494e55;
+			cursor: pointer;
+		}
+
+		ul.adminLinks li a:active {
+			color: #494e55;
+			cursor: default !important;
+		}

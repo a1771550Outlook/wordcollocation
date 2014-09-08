@@ -1,0 +1,75 @@
+﻿@using UI.Helpers
+@model UI.Models.CollocationViewModel
+
+@{
+	ViewBag.Title = "Index";
+	Layout = "~/Views/Shared/_LayoutFullWidth.cshtml";
+	string action = User.IsInRole("Admin") ? "IndexForAdmin" : "IndexForEditor";
+}
+
+<h2>Collocation</h2>
+
+<p>
+	@Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+	<tr>
+		<th>Id</th>
+		<th>
+			Pos
+		</th>
+		<th>
+			ColPos
+		</th>
+		<th>
+			Word
+		</th>
+		<th>
+			ColWord
+		</th>
+		<th>
+			CollocationPattern
+		</th>
+		<th>Examples</th>
+		<th></th>
+	</tr>
+
+	@foreach (var item in Model.CollocationList)
+	{
+		<tr>
+			<td>@Html.DisplayFor(modelItem=>item.Id)</td>
+			<td>
+				@Html.DisplayFor(modelItem => item.Pos)
+			</td>
+			<td>
+				@Html.DisplayFor(modelItem => item.ColPos)
+			</td>
+			<td>
+				@Html.DisplayFor(modelItem => item.Word)
+			</td>
+			<td>
+				@Html.DisplayFor(modelItem => item.ColWord)
+			</td>
+			<td>
+				@Html.DisplayFor(modelItem => item.CollocationPattern)
+			</td>
+			<td>
+				@if (item.WcExampleList != null && item.WcExampleList.Count > 0)
+				{
+					foreach (var example in item.WcExampleList)
+					{
+						@Html.Partial("_WcExampleListPartial", example)
+					}
+				}
+			</td>
+			<td>
+				@Html.ActionLink("Edit", "Edit", new { id = item.Id }) |
+				@Html.ActionLink("Delete", "Delete", new { id = item.Id }, new { id = item.Id, returnUrl = Request.Url, onclick = string.Format("return confirm('{0}');", Resources.ConfirmDelete) })
+			</td>
+		</tr>
+	}
+
+</table>
+<div class="pagination">
+	@Html.PageLinks(Model.CollocationPagingInfo, x => Url.Action(action, "Collocation", new { page = x }))
+</div>

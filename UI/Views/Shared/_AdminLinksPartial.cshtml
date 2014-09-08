@@ -1,0 +1,28 @@
+﻿@if (Request.IsAuthenticated && (User.IsInRole("Admin") || User.IsInRole("Editor")))
+{
+	<p>
+
+		@if (User.IsInRole("Admin"))
+		{
+			@Html.ActionLink("Pos", "Index", "Pos")
+			@Html.Raw(" | ") 
+			@Html.ActionLink("ColPos", "Index", "ColPos")@Html.Raw(" | ")
+		}
+
+		@if (User.IsInRole("Admin"))
+		{
+			@Html.ActionLink("Word", "IndexForAdmin", "Word")@Html.Raw(" | ")
+			@Html.ActionLink("ColWord", "IndexForAdmin", "ColWord")@Html.Raw(" | ")
+			@Html.ActionLink("Collocation", "IndexForAdmin", "Collocation")@Html.Raw(" | ")
+			@Html.ActionLink("Example", "IndexForAdmin", "WcExample")
+		}
+		else if (User.IsInRole("Editor"))
+		{
+			@Html.ActionLink("Word", "IndexForEditor", "Word")@Html.Raw(" | ")
+			@Html.ActionLink("ColWord", "IndexForEditor", "ColWord")@Html.Raw(" | ")
+			@Html.ActionLink("Collocation", "IndexForEditor", "Collocation")@Html.Raw(" | ")
+			@Html.ActionLink("Example", "IndexForEditor", "WcExample")
+		}
+		
+	</p>
+}

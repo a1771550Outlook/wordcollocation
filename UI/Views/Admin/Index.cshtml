@@ -1,0 +1,14 @@
+﻿@model UI.Models.WcSearchViewModel
+@{
+	Layout = "~/Views/Shared/_Layout.cshtml";
+	ViewBag.Title = "Index";
+}
+
+<ul id="letters">
+	@foreach (var letter in Model.Letters)
+	{
+		<li>@Html.ActionLink(letter, "Index", "Admin", new { letter = letter }, null)</li>
+	}
+</ul>
+
+@Html.Partial("_CollocationListPartial", Model)

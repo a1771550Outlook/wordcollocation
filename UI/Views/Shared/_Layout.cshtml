@@ -1,0 +1,121 @@
+﻿@using System.Diagnostics
+@using BLL.Helpers
+@using UI.Helpers
+@{
+	Layout = null;
+	var currentYear = DateTime.Now.Year;
+	var footer = currentYear == 2014 ? Html.Raw(string.Format("&copy; 2014 {0} {1}.", Resources.SiteTitle, Resources.AllRightsReserved)) : Html.Raw(string.Format("&copy; 2014 - {0} {1}. {2}", currentYear, Resources.SiteTitle, Resources.AllRightsReserved));
+
+	string navClass = "nav ww-nav pull-right hidden-phone";
+	if (Request.IsAuthenticated)
+	{
+		navClass = "nav ww-nav-admin pull-right hidden-phone";
+	}
+}
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html lang="@CultureHelper.GetCurrentNeutralCulture()" dir="@(CultureHelper.IsRighToLeft() ? "rtl" : "ltr")" class="no-js">
+<!--<![endif]-->
+<head>
+	<meta charset="UTF-8">
+	<meta name="keywords" content="Word Collocation, WordCollocation">
+	<meta name="description" content="A Word Collocation website designed for Chinese-English translators and students.">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+	<title>Word Collocation: @ViewBag.Title</title>
+	<link rel="apple-touch-icon" sizes="57x57" href="/apple-touch-icon-57x57.png">
+	<link rel="apple-touch-icon" sizes="114x114" href="/apple-touch-icon-114x114.png">
+	<link rel="apple-touch-icon" sizes="72x72" href="/apple-touch-icon-72x72.png">
+	<link rel="apple-touch-icon" sizes="144x144" href="/apple-touch-icon-144x144.png">
+	<link rel="apple-touch-icon" sizes="60x60" href="/apple-touch-icon-60x60.png">
+	<link rel="apple-touch-icon" sizes="120x120" href="/apple-touch-icon-120x120.png">
+	<link rel="apple-touch-icon" sizes="76x76" href="/apple-touch-icon-76x76.png">
+	<link rel="apple-touch-icon" sizes="152x152" href="/apple-touch-icon-152x152.png">
+	<link rel="icon" type="image/png" href="/favicon-196x196.png" sizes="196x196">
+	<link rel="icon" type="image/png" href="/favicon-160x160.png" sizes="160x160">
+	<link rel="icon" type="image/png" href="/favicon-96x96.png" sizes="96x96">
+	<link rel="icon" type="image/png" href="/favicon-16x16.png" sizes="16x16">
+	<link rel="icon" type="image/png" href="/favicon-32x32.png" sizes="32x32">
+	<meta name="msapplication-TileColor" content="#da532c">
+	<meta name="msapplication-TileImage" content="/mstile-144x144.png">
+	<!-- Google Fonts -->
+	<link href='http://fonts.googleapis.com/css?family=Poiret+One|PT+Serif|Open+Sans:400,300' rel='stylesheet' type='text/css'>
+	<link href="~/css/site.css" rel="stylesheet" />
+	<!-- Modernizr for Glyphicons (SVG) -->
+	<script src="~/js/modernizr.js"></script>
+	<!-- HTML5 shim, for IE6-8 support of HTML5 elements -->
+	<!--[if lt IE 9]>
+		<script src="~/js/html5shiv.js"></script>
+	<![endif]-->
+	<link href="~/css/adminLinks.css" rel="stylesheet" />
+	@*@Html.RenderStyles()*@
+</head>
+<body>
+	<div class="container">
+		<div class="masthead clearfix">
+			<a href="~/">
+				<img id="logo" src="@Url.Content("~/img/wclogo.png")" alt="@Resources.SiteTitle" title="@Resources.SiteTitle">
+			</a>
+			<ul id="nav" class="@navClass">
+				<li class="active">@Html.ActionLink(Resources.Home, "Index", "Home")</li>
+
+				@if (Request.IsAuthenticated && User.IsInRole("Admin"))
+				{
+					<li>@Html.ActionLink("Roles", "Index", "RolesAdmin")</li>
+					<li>@Html.ActionLink("Users", "Index", "UsersAdmin")</li>
+				}
+				<li class="dropdown">
+					<a href="#" data-toggle="dropdown" class="dropdown-toggle">@Resources.ChooseLanguage <b class="caret"></b></a>
+					<ul class="dropdown-menu">
+						<li>
+
+							@{
+								Debug.Assert(Request.Url != null, "Request.Url != null");
+							}
+							@Html.ActionLink("繁中", "SetCulture", "Home", new { culture = "zh-hant", returnUrl = Request.Url.AbsoluteUri }, null)
+						</li>
+						<li>
+							@Html.ActionLink("簡中", "SetCulture", "Home", new { culture = "zh-hans", returnUrl = Request.Url.AbsoluteUri }, null)
+						</li>
+						<li>
+							@Html.ActionLink("日本語", "SetCulture", "Home", new { culture = "ja-jp", returnUrl = Request.Url.AbsoluteUri }, null)
+						</li>
+					</ul>
+				</li>
+
+				<li>@Html.Partial("_LoginPartial")</li>
+			</ul>
+		</div>
+		<hr>
+
+		<div class="row main-content">
+
+			<div class="offset3 span6 zone-content">
+				@Html.Partial("_AdminLinksPartial")
+			</div>
+
+			<div class="offset1 span6 zone-content">
+				@RenderBody()
+			</div>
+		</div>
+		<hr>
+
+		<div class="row copyright footer">
+			<div class="span12">@footer</div>
+		</div>
+	</div>
+	<!-- End Container -->
+	<!-- TODO: to bundle the following scripts upon deployment -->
+	<!-- Javascript
+	================================================== -->
+	<!-- Placed at the end of the document so the pages load faster -->
+	<script src="~/js/jquery-1.9.1.js"></script>
+	<script src="~/js/bootstrap.js"></script>
+	<script src="~/js/tinynav.js"></script>
+	<script src="~/js/template.js"></script>
+	@RenderSection("scripts", required: false)
+	@Html.RenderJavaScripts()
+</body>
+</html>

@@ -1,0 +1,113 @@
+﻿@model UI.Models.RegisterViewModel
+@{
+	ViewBag.Title = Resources.RegisterAsNewUser;
+}
+
+<style>
+	#register-form input {
+		width: 60%;
+	}
+
+	#alert {
+		width: 40%;
+		margin-left: -1em;
+	}
+</style>
+
+<h3>@ViewBag.Title</h3>
+<hr />
+@using (Html.BeginForm("Register", "Account", FormMethod.Post, new { id = "register-form", role = "form" }))
+{
+	@Html.AntiForgeryToken()
+	@Html.ValidationSummary("", new { @class = "text-danger" })
+
+	<input type="hidden" id="duplicate" value="@Resources.DuplicatedEmail" />
+	<input type="hidden" id="invalid" value="@Resources.EmailFormatError" />
+
+	<div class="container">
+		<p id="alert" class="alert marginBottom1em"></p>
+	</div>
+
+	<div class="form-group">
+		@Html.TextBoxFor(m => m.Email, new { placeholder = Resources.Email })&nbsp;
+		@*<img id="imgOk" alt="ok" title="ok" src="~/img/ok.png" />*@
+		<i class="glyphicons-icon circle_ok" id="imgOk"></i>
+	</div>
+
+	<div class="form-group">
+		@Html.TextBoxFor(m => m.UserName, new { placeholder = Resources.UserName })
+	</div>
+
+	<div class="form-group">
+		@Html.PasswordFor(m => m.Password, new { placeholder = Resources.Password })
+
+	</div>
+	<div class="form-group">
+
+		@Html.PasswordFor(m => m.ConfirmPassword, new { placeholder = Resources.ConfirmPassword })
+
+	</div>
+	<div class="form-group">
+
+		<button type="submit">@Resources.Register</button>
+
+	</div>
+}
+
+@section Scripts {
+	@Scripts.Render("~/bundles/jqueryval")
+
+	<script>
+		(function ($)
+		{
+			$("#alert").hide();
+			$("#imgOk").hide();
+			var duplicate = $("#duplicate").val();
+			var invalid = $("#invalid").val();
+
+			$("#Email").bind("keyup keydown keypress", function (e)
+			{
+				$("#alert").hide();
+				$("#imgOk").hide();
+			});
+
+			$("#Email").bind("change", function (e)
+			{
+				var email = $("#Email").val();
+
+				$.ajax({
+					url: '/WebServices/WcServices.asmx/CheckEmail',
+					type: 'POST',
+					dataType: 'json',
+					contentType: "application/json; charset=utf-8",
+					data: JSON.stringify({ email: email }),
+					success: function (data)
+					{
+						console.log(data.d);
+						var bRet = data.d;
+						if (!bRet[0])
+						{
+							$("#alert").show().text(duplicate);
+							$("#Email").focus();
+						}
+						else if (!bRet[1])
+						{
+							$("#alert").show().text(invalid);
+							$("#Email").focus();
+						}
+						else if (bRet[0] && bRet[1])
+						{
+							$("#alert").hide();
+							$("#imgOk").show();
+						}
+
+					},
+					error: function (data)
+					{
+						$('#alert').show().text('Error: ' + data.Message);
+					}
+				});
+			});
+		})(jQuery);
+	</script>
+}

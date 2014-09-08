@@ -1,0 +1,76 @@
+﻿@using BLL.Helpers
+@model BLL.Collocation
+@{
+	var culturename = CultureHelper.GetCurrentCulture();
+	var posZht = Model.PosZht;
+	var posZhs = Model.PosZhs;
+	var posJap = Model.PosJap;
+	var wordZht = Model.WordZht;
+	var wordZhs = Model.WordZhs;
+	var wordJap = Model.WordJap;
+	
+	string posTrans;
+	if (culturename.Contains("hans"))
+	{
+		posTrans = posZhs;
+	}
+	else if (culturename.Contains("ja"))
+	{
+		posTrans = posJap;
+	}
+	else
+	{
+		posTrans = posZht;
+	}
+	string wordTrans;
+	if (culturename.Contains("hans"))
+	{
+		wordTrans = wordZhs;
+	}
+	else if (culturename.Contains("ja"))
+	{
+		wordTrans = wordJap;
+	}
+	else
+	{
+		wordTrans = wordZht;
+	}
+	
+	var pattern = BLLHelper.GetPatternArray(Model.CollocationPattern);
+	
+	var collocationList = BLLHelper.GetCollocationListByWordPattern(Model.Word, Model.CollocationPattern);
+}
+<table id="WordList" class="table table-striped table-hover" style="color: #333333; border-collapse: collapse; ">
+	<tbody>
+		<tr>
+			<td>
+				<div>
+					<!-- for debug -->
+					@Html.Hidden("collocationId", Model.CollocationId)
+					@Html.Hidden("pos", Model.Pos)
+					@Html.Hidden("wordId", Model.wordId)
+					@Html.Hidden("colPosId", Model.Id)
+					@Html.Hidden("word", Model.Word)
+					@Html.Hidden("pattern", Model.CollocationPattern)
+					<!-- end for debug -->
+					<h4>
+						<i class="halflings-icon book" style="vertical-align:baseline;"></i><span id="lblWord">&nbsp;@Model.Word</span>&nbsp;
+						<span class="wordTransHeading">@(wordTrans)</span>
+						&nbsp;<span id="lblpos">(@Model.Pos @posTrans)</span>
+					</h4>
+					<div class="indent-1em marginBottom05em colPatternHeadingText">
+						<span>@Resources.CollocationPattern</span>
+						<span class="">@pattern[0]</span>&nbsp;
+						<span class="">@pattern[1]</span>
+					</div>
+					
+					@foreach (var collocation in collocationList)
+					{
+						@Html.Partial("_ColWordListPartial", collocation);
+					}
+				</div>
+			</td>
+		</tr>
+	</tbody>
+</table>
+

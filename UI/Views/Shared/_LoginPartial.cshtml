@@ -1,0 +1,26 @@
+@using Microsoft.AspNet.Identity
+@{
+	string navClass = "nav ww-nav pull-right hidden-phone";
+	if (Request.IsAuthenticated)
+	{
+		navClass = "nav ww-nav-admin pull-right hidden-phone";
+	}
+}
+@if (Request.IsAuthenticated)
+{
+    using (Html.BeginForm("LogOff", "Account", FormMethod.Post, new { id = "logoutForm", @class = "navbar-right" })) {
+        @Html.AntiForgeryToken()
+
+        <ul class="@navClass" style="padding-top:0;">
+            <li>
+	            @Html.ActionLink(User.Identity.GetUserName(), "Index", "ManageUsers", null, new { title = "Manage" })
+            </li>
+            <li><a href="javascript:document.getElementById('logoutForm').submit()">@Resources.LogOff</a></li>
+        </ul>
+    }
+}
+else {
+    <ul class="@navClass" style="padding-top:0;">
+        <li>@Html.ActionLink(Resources.LogOn, "Login", "Account", null, new { id = "loginLink" })</li>
+    </ul>
+}

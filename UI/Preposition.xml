@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Prepositions>
+	<Preposition key="-1" value="To...|往...|へ..."/>
+	<Preposition key="-2" value="In...|在...之內|内..."/>
+	<Preposition key="-3" value="At...|在...|で.."/>
+	<Preposition key="-4" value="On...|在...之上|で...トップ"/>
+	<Preposition key="-5" value="Of...|的...|の..."/>
+	<Preposition key="-6" value="From...|由...|バイ..."/>
+	<Preposition key="-8" value="Up...|往...上|行く...上"/>
+	<Preposition key="-9" value="Down...|往...下|前の下..."/>
+	<Preposition key="-10" value="Out of...|在...之外|の...外"/>
+	<Preposition key="-11" value="On behalf of...|代表...|の...代わっ"/>
+	<Preposition key="-12" value="Upon...|在...之上|で...トップ"/>
+	<Preposition key="-15" value="In favor of...||"/>
+	<Preposition key="-16" value="For...|為了...|のため..."/>
+	<Preposition key="-17" value="Under...|在...之下|前の下..."/>
+	<Preposition key="-18" value="Above...|在...之上|で...トップ"/>
+</Prepositions>

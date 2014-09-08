@@ -1,0 +1,2578 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Verbs>
+	<Verb>
+		abandon
+
+	</Verb>
+	<Verb>
+		accept
+		
+	</Verb>
+	<Verb>
+		add
+		
+	</Verb>
+	<Verb>
+		admire
+		
+	</Verb>
+	<Verb>
+		admit
+		
+	</Verb>
+	<Verb>
+		advise
+		
+	</Verb>
+	<Verb>
+		afford
+		
+	</Verb>
+	<Verb>
+		agree
+		
+	</Verb>
+	<Verb>
+		alert
+		
+	</Verb>
+	<Verb>
+		allow
+		
+	</Verb>
+	<Verb>
+		amuse
+		
+	</Verb>
+	<Verb>
+		analyse
+		
+	</Verb>
+	<Verb>
+		announce
+		
+	</Verb>
+	<Verb>
+		annoy
+		
+	</Verb>
+	<Verb>
+		answer
+		
+	</Verb>
+	<Verb>
+		apologise
+		
+	</Verb>
+	<Verb>
+		appear
+		
+	</Verb>
+	<Verb>
+		applaud
+		
+	</Verb>
+	<Verb>
+		appreciate
+		
+	</Verb>
+	<Verb>
+		approve
+		
+	</Verb>
+	<Verb>
+		argue
+		
+	</Verb>
+	<Verb>
+		arrange
+		
+	</Verb>
+	<Verb>
+		arrest
+		
+	</Verb>
+	<Verb>
+		arrive
+		
+	</Verb>
+	<Verb>
+		ask
+		
+	</Verb>
+	<Verb>
+		attach
+		
+	</Verb>
+	<Verb>
+		attack
+		
+	</Verb>
+	<Verb>
+		attempt
+		
+	</Verb>
+	<Verb>
+		attend
+		
+	</Verb>
+	<Verb>
+		attract
+		
+	</Verb>
+	<Verb>
+		avoid
+	</Verb>
+	<Verb>
+		back
+	</Verb>
+	<Verb>
+zip
+		
+	</Verb>
+	<Verb>
+zoom
+	</Verb>
+	<Verb>
+x-ray
+
+		
+		
+	</Verb>
+	<Verb>yawn
+
+	</Verb>
+	<Verb>yell
+
+	</Verb>
+	<Verb>
+		wipe
+		
+
+	</Verb>
+	<Verb>wish
+		
+
+	</Verb>
+	<Verb>
+wobble
+		
+	</Verb>
+	<Verb>
+wonder
+		
+	</Verb>
+	<Verb>
+		work
+		
+	</Verb>
+	<Verb>worry
+		
+
+	</Verb>
+	<Verb>wrap
+		
+
+	</Verb>
+	<Verb>
+wreck
+		
+		
+	</Verb>
+	<Verb>
+wrestle
+	</Verb>
+	<Verb>wriggle
+
+	</Verb>
+	<Verb>
+		wail
+		
+	</Verb>
+	<Verb>
+		wait
+		
+	</Verb>
+	<Verb>
+walk
+		
+	</Verb>
+	<Verb>
+		wander
+		
+	</Verb>
+	<Verb>
+		want
+		
+	</Verb>
+	<Verb>
+		warm
+		
+	</Verb>
+	<Verb>
+		warn
+		
+	</Verb>
+	<Verb>
+		wash
+		
+	</Verb>
+	<Verb>
+		waste
+		
+
+	</Verb>
+	<Verb>
+		watch
+		
+	</Verb>
+	<Verb>
+		water
+		
+	</Verb>
+	<Verb>
+		wave
+		
+
+	</Verb>
+	<Verb>
+		weigh
+		
+	</Verb>
+	<Verb>
+		welcome
+		
+	</Verb>
+	<Verb>
+		whine
+		
+	</Verb>
+	<Verb>
+		whip
+		
+	</Verb>
+	<Verb>
+		whirl
+		
+	</Verb>
+	<Verb>
+		whisper
+		
+	</Verb>
+	<Verb>
+		wink
+	</Verb>
+	<Verb>
+		travel
+		
+	</Verb>
+	<Verb>visit
+
+	</Verb>
+	<Verb>vanish
+
+	</Verb>
+	<Verb>use
+
+	</Verb>
+	<Verb>
+		undress
+		
+
+	</Verb>
+	<Verb>
+unfasten
+		
+	</Verb>
+	<Verb>unite
+		
+
+	</Verb>
+	<Verb>unlock
+		
+	</Verb>
+	<Verb>unpack
+		
+
+
+	</Verb>
+	<Verb>untidy
+
+	</Verb>
+	<Verb>
+		treat
+		
+
+	</Verb>
+	<Verb>
+		tremble
+		
+	</Verb>
+	<Verb>
+		trick
+		
+	</Verb>
+	<Verb>
+		trip
+		
+
+	</Verb>
+	<Verb>
+		trot
+
+	</Verb>
+	<Verb>
+		trouble
+		
+	</Verb>
+	<Verb>
+		trust
+		
+	</Verb>
+	<Verb>
+		try
+		
+	</Verb>
+	<Verb>
+tug
+		
+
+	</Verb>
+	<Verb>
+		tumble
+		
+	</Verb>
+	<Verb>
+		turn
+		
+	</Verb>
+	<Verb>
+		twist
+		
+	</Verb>
+	<Verb>type
+
+	</Verb>
+	<Verb>
+		talk
+	</Verb>
+	<Verb>trap
+
+	</Verb>
+	<Verb>transport
+
+	</Verb>
+	<Verb>train
+
+	</Verb>
+	<Verb>trade
+
+	</Verb>
+	<Verb>trace
+
+	</Verb>
+	<Verb>
+		terrify
+	
+	</Verb>
+	<Verb>
+		test
+		
+	</Verb>
+	<Verb>
+		thank
+		
+	</Verb>
+	<Verb>
+		thaw
+		
+	</Verb>
+	<Verb>
+		tick
+		
+	</Verb>
+	<Verb>
+		tickle
+		
+	</Verb>
+	<Verb>
+		tie
+		
+	</Verb>
+	<Verb>
+		time
+		
+	</Verb>
+	<Verb>
+		tip
+		
+	</Verb>
+	<Verb>
+		tire
+		
+	</Verb>
+	<Verb>
+		touch
+		
+	</Verb>
+	<Verb>
+		tour
+		
+	</Verb>
+	<Verb>tow
+
+	</Verb>
+	<Verb>
+		tame
+		
+
+	</Verb>
+	<Verb>tap
+		
+
+	</Verb>
+	<Verb>taste
+		
+	</Verb>
+	<Verb>tease
+		
+
+	</Verb>
+	<Verb>telephone
+		
+
+
+	</Verb>
+	<Verb>tempt
+
+	</Verb>
+	<Verb>
+		step
+		
+
+	</Verb>
+	<Verb>
+		stir
+		
+	</Verb>
+	<Verb>
+		stitch
+		
+	</Verb>
+	<Verb>
+		stop
+		
+	</Verb>
+	<Verb>
+		store
+		
+	</Verb>
+	<Verb>
+		strap
+		
+	</Verb>
+	<Verb>
+		strengthen
+		
+	</Verb>
+	<Verb>
+		stretch
+		
+	</Verb>
+	<Verb>
+		strip
+		
+	</Verb>
+	<Verb>
+		stroke
+		
+	</Verb>
+	<Verb>
+		stuff
+		
+	</Verb>
+	<Verb>
+		subtract
+		
+	</Verb>
+	<Verb>
+		succeed
+		
+	</Verb>
+	<Verb>
+		suck
+		
+	</Verb>
+	<Verb>
+		suffer
+		
+	</Verb>
+	<Verb>suggest
+		
+
+	</Verb>
+	<Verb>suit
+		
+
+	</Verb>
+	<Verb>supply
+		
+	</Verb>
+	<Verb>support
+		
+
+
+	</Verb>
+	<Verb>suppose
+		
+	</Verb>
+	<Verb>surprise
+		
+
+
+	</Verb>
+	<Verb>surround
+		
+
+	</Verb>
+	<Verb>suspect
+		
+	</Verb>
+	<Verb>suspend
+		
+
+
+	</Verb>
+	<Verb>switch
+
+	</Verb>
+	<Verb>
+		smile
+		
+	</Verb>
+	<Verb>
+		smoke
+		
+	</Verb>
+	<Verb>
+		snatch
+		
+	</Verb>
+	<Verb>
+		sneeze
+		
+	</Verb>
+	<Verb>
+		sniff
+		
+	</Verb>
+	<Verb>
+		snore
+		
+		
+
+	</Verb>
+	<Verb>sparkle
+
+	</Verb>
+	<Verb>
+		snow
+		
+	</Verb>
+	<Verb>
+		soak
+		
+	</Verb>
+	<Verb>
+		soothe
+		
+	</Verb>
+	<Verb>
+		sound
+		
+	</Verb>
+	<Verb>
+		spare
+		
+	</Verb>
+	<Verb>
+		spark
+	</Verb>
+	<Verb>
+		spell
+	
+	</Verb>
+	<Verb>
+		spill
+		
+	</Verb>
+	<Verb>
+		spoil
+		
+	</Verb>
+	<Verb>
+		spot
+		
+	</Verb>
+	<Verb>
+spray
+		
+	</Verb>
+	<Verb>
+		sprout
+		
+
+	</Verb>
+	<Verb>
+		squash
+		
+	</Verb>
+	<Verb>
+		squeak
+		
+	</Verb>
+	<Verb>
+		squeal
+
+	</Verb>
+	<Verb>
+		squeeze
+		
+	</Verb>
+	<Verb>
+		stain
+		
+	</Verb>
+	<Verb>
+		stamp
+		
+	</Verb>
+	<Verb>
+		stare
+		
+	</Verb>
+	<Verb>
+		start
+		
+
+	</Verb>
+	<Verb>
+		stay
+		
+	</Verb>
+	<Verb>
+		steer
+
+	</Verb>
+	<Verb>
+		scold
+		
+	</Verb>
+	<Verb>
+		scorch
+		
+		
+
+	</Verb>
+	<Verb>
+		scrape
+		
+		
+	</Verb>
+	<Verb>
+		smell
+	</Verb>
+	<Verb>
+		shade
+		
+	</Verb>
+	<Verb>
+		share
+		
+	</Verb>
+	<Verb>
+		shave
+		
+	</Verb>
+	<Verb>
+		shelter
+		
+	</Verb>
+	<Verb>
+		shiver
+		
+	</Verb>
+	<Verb>
+		shock
+		
+	</Verb>
+	<Verb>
+		shop
+		
+	</Verb>
+	<Verb>
+		shrug
+		
+	</Verb>
+	<Verb>
+		sigh
+		
+	</Verb>
+	<Verb>
+		sign
+		
+	</Verb>
+	<Verb>
+		signal
+		
+	</Verb>
+	<Verb>
+		sin
+		
+	</Verb>
+	<Verb>
+		sip
+		
+	</Verb>
+	<Verb>
+		ski
+		
+	</Verb>
+	<Verb>
+		skip
+		
+	</Verb>
+	<Verb>
+		slap
+		
+	</Verb>
+	<Verb>
+		slip
+		
+	</Verb>
+	<Verb>
+		slow
+		
+	</Verb>
+	<Verb>
+		smash
+
+	</Verb>
+	<Verb>
+		scratch
+		
+	</Verb>
+	<Verb>
+		scream
+		
+
+	</Verb>
+	<Verb>
+		screw
+		
+	</Verb>
+	<Verb>
+		scribble
+		
+	</Verb>
+	<Verb>
+		scrub
+		
+
+	</Verb>
+	<Verb>
+		seal
+		
+	</Verb>
+	<Verb>
+		search
+		
+	</Verb>
+	<Verb>
+		separate
+		
+	</Verb>
+	<Verb>
+		serve
+
+	</Verb>
+	<Verb>
+		settle
+	</Verb>
+	<Verb>
+		remind
+		
+	</Verb>
+	<Verb>
+		remove
+		
+	</Verb>
+	<Verb>
+		repair
+		
+	</Verb>
+	<Verb>
+		repeat
+		
+	</Verb>
+	<Verb>
+		replace
+		
+	</Verb>
+	<Verb>
+		reply
+		
+	</Verb>
+	<Verb>
+		report
+		
+	</Verb>
+	<Verb>
+		reproduce
+		
+	</Verb>
+	<Verb>
+		request
+		
+	</Verb>
+	<Verb>
+		rescue
+		
+	</Verb>
+	<Verb>
+		retire
+		
+	</Verb>
+	<Verb>
+		return
+		
+	</Verb>
+	<Verb>
+		rhyme
+		
+	</Verb>
+	<Verb>
+		rinse
+		
+		
+
+	</Verb>
+	<Verb>
+		sack
+		
+	</Verb>
+	<Verb>
+		sail
+		
+	</Verb>
+	<Verb>
+		satisfy
+		
+	</Verb>
+	<Verb>
+		save
+
+	</Verb>
+	<Verb>
+		saw
+		
+	</Verb>
+	<Verb>
+		scare
+		
+	</Verb>
+	<Verb>
+		scatter
+	</Verb>
+	<Verb>
+		risk
+		
+
+	</Verb>
+	<Verb>
+		rob
+
+	</Verb>
+	<Verb>
+		rock
+		
+	</Verb>
+	<Verb>
+		roll
+
+	</Verb>
+	<Verb>
+		rot
+		
+	</Verb>
+	<Verb>
+		rub
+
+	</Verb>
+	<Verb>
+		ruin
+		
+
+	</Verb>
+	<Verb>
+		rule
+		
+
+	</Verb>
+	<Verb>
+		rush
+	</Verb>
+	<Verb>
+		race
+		
+	</Verb>
+	<Verb>
+		radiate
+
+	</Verb>
+	<Verb>
+		rain
+		
+	</Verb>
+	<Verb>
+		raise
+		
+	</Verb>
+	<Verb>
+		reach
+		
+	</Verb>
+	<Verb>
+		realise
+		
+	</Verb>
+	<Verb>
+		receive
+		
+	</Verb>
+	<Verb>
+		recognise
+		
+	</Verb>
+	<Verb>
+		record
+		
+	</Verb>
+	<Verb>
+		reduce
+		
+
+	</Verb>
+	<Verb>
+		reflect
+
+	</Verb>
+	<Verb>
+		refuse
+		
+	</Verb>
+	<Verb>
+		regret
+		
+	</Verb>
+	<Verb>
+		reign
+
+	</Verb>
+	<Verb>
+		reject
+		
+	</Verb>
+	<Verb>
+		rejoice
+
+	</Verb>
+	<Verb>
+		relax
+		
+	</Verb>
+	<Verb>
+		release
+
+	</Verb>
+	<Verb>
+		rely
+		
+	</Verb>
+	<Verb>
+		remain
+		
+	</Verb>
+	<Verb>
+		remember
+	</Verb>
+	<Verb>
+		possess
+		
+		
+	</Verb>
+	<Verb>
+		post
+		
+	</Verb>
+	<Verb>
+		question
+		
+	</Verb>
+	<Verb>queue
+
+	</Verb>
+	<Verb>
+		pour
+		
+
+	</Verb>
+	<Verb>
+		practise
+		
+	</Verb>
+	<Verb>
+		pray
+		
+	</Verb>
+	<Verb>
+		preach
+		
+	</Verb>
+	<Verb>
+		precede
+		
+	</Verb>
+	<Verb>
+		prefer
+		
+	</Verb>
+	<Verb>
+		prepare
+		
+	</Verb>
+	<Verb>
+		present
+		
+	</Verb>
+	<Verb>
+		preserve
+		
+	</Verb>
+	<Verb>
+		press
+		
+	</Verb>
+	<Verb>
+		pretend
+		
+	</Verb>
+	<Verb>
+		prevent
+		
+	</Verb>
+	<Verb>
+		prick
+		
+
+	</Verb>
+	<Verb>
+		print
+		
+	</Verb>
+	<Verb>
+		produce
+
+	</Verb>
+	<Verb>
+		program
+
+	</Verb>
+	<Verb>
+		promise
+		
+	</Verb>
+	<Verb>
+		protect
+		
+	</Verb>
+	<Verb>
+		provide
+		
+	</Verb>
+	<Verb>
+		pull
+		
+	</Verb>
+	<Verb>
+		pump
+		
+	</Verb>
+	<Verb>
+		punch
+		
+	</Verb>
+	<Verb>
+		puncture
+		
+	</Verb>
+	<Verb>
+		punish
+		
+	</Verb>
+	<Verb>push
+
+	</Verb>
+	<Verb>
+		bake
+		
+
+		
+		
+
+		
+
+		
+
+		
+
+		
+		
+
+		
+		
+	</Verb>
+	<Verb>
+		park
+		
+	</Verb>
+	<Verb>
+		part
+		
+	</Verb>
+	<Verb>
+		pass
+		
+	</Verb>
+	<Verb>
+		paste
+		
+	</Verb>
+	<Verb>
+		pat
+		
+	</Verb>
+	<Verb>
+		pause
+		
+	</Verb>
+	<Verb>
+		peck
+		
+	</Verb>
+	<Verb>
+		pedal
+		
+	</Verb>
+	<Verb>
+		peel
+		
+	</Verb>
+	<Verb>
+		peep
+		
+	</Verb>
+	<Verb>
+		perform
+		
+	</Verb>
+	<Verb>
+		permit
+		
+	</Verb>
+	<Verb>
+		phone
+		
+	</Verb>
+	<Verb>
+		pick
+		
+	</Verb>
+	<Verb>
+		pinch
+		
+	</Verb>
+	<Verb>
+		pine
+		
+	</Verb>
+	<Verb>
+		place
+		
+	</Verb>
+	<Verb>
+		plan
+
+	</Verb>
+	<Verb>
+		plant
+		
+	</Verb>
+	<Verb>
+play
+		
+		
+	</Verb>
+	<Verb>
+		plug
+		
+	</Verb>
+	<Verb>
+		please
+	</Verb>
+	<Verb>
+		point
+
+	</Verb>
+	<Verb>
+		poke
+		
+
+	</Verb>
+	<Verb>
+		polish
+
+
+	</Verb>
+	<Verb>
+		pop
+
+	</Verb>
+	<Verb>
+		obey
+		
+	</Verb>
+	<Verb>
+		object
+		
+	</Verb>
+	<Verb>
+		observe
+
+	</Verb>
+	<Verb>
+		obtain
+
+	</Verb>
+	<Verb>
+		occur
+		
+	</Verb>
+	<Verb>
+		offend
+		
+	</Verb>
+	<Verb>
+		offer
+		
+	</Verb>
+	<Verb>
+		open
+		
+	</Verb>
+	<Verb>
+order
+		
+	</Verb>
+	<Verb>overflow
+		
+
+	</Verb>
+	<Verb>
+		owe
+		
+
+	</Verb>
+	<Verb>
+		own
+
+
+	</Verb>
+	<Verb>
+		pack
+		
+	</Verb>
+	<Verb>
+		paddle
+		
+	</Verb>
+	<Verb>paint
+
+	</Verb>
+	<Verb>
+		marry
+		
+	</Verb>
+	<Verb>
+		match
+		
+	</Verb>
+	<Verb>
+		mate
+		
+	</Verb>
+	<Verb>
+		matter
+		
+	</Verb>
+	<Verb>
+		measure
+		
+	</Verb>
+	<Verb>
+		meddle
+		
+	</Verb>
+	<Verb>
+		melt
+
+	</Verb>
+	<Verb>
+		memorise
+		
+	</Verb>
+	<Verb>
+		mend
+		
+	</Verb>
+	<Verb>
+		mess
+		
+	</Verb>
+	<Verb>
+		milk
+		
+	</Verb>
+	<Verb>
+		mine
+		
+	</Verb>
+	<Verb>
+		miss
+		
+	</Verb>
+	<Verb>
+		mix
+		
+	</Verb>
+	<Verb>
+		moan
+		
+	</Verb>
+	<Verb>
+		moor
+		
+	</Verb>
+	<Verb>
+		mourn
+		
+	</Verb>
+	<Verb>
+		move
+
+	</Verb>
+	<Verb>
+		muddle
+		
+	</Verb>
+	<Verb>
+		mug
+		
+	</Verb>
+	<Verb>
+		multiply
+		
+
+	</Verb>
+	<Verb>
+		murder
+
+		
+	</Verb>
+	<Verb>
+		nail
+		
+	</Verb>
+	<Verb>
+		name
+		
+	</Verb>
+	<Verb>
+		need
+		
+	</Verb>
+	<Verb>
+		nest
+		
+	</Verb>
+	<Verb>
+		nod
+		
+	</Verb>
+	<Verb>
+		note
+		
+
+	</Verb>
+	<Verb>
+		notice
+		
+	</Verb>
+	<Verb>
+		number
+
+	</Verb>
+	<Verb>
+		label
+		
+	</Verb>
+	<Verb>
+		land
+		
+	</Verb>
+	<Verb>
+		last
+		
+	</Verb>
+	<Verb>
+		laugh
+		
+	</Verb>
+	<Verb>
+		launch
+		
+	</Verb>
+	<Verb>
+		learn
+		
+	</Verb>
+	<Verb>
+		level
+		
+	</Verb>
+	<Verb>
+		license
+
+	</Verb>
+	<Verb>
+		lick
+		
+	</Verb>
+	<Verb>
+		lie
+		
+	</Verb>
+	<Verb>
+		lighten
+		
+	</Verb>
+	<Verb>
+		like
+		
+	</Verb>
+	<Verb>
+		list
+		
+	</Verb>
+	<Verb>
+		listen
+		
+	</Verb>
+	<Verb>
+		live
+		
+
+	</Verb>
+	<Verb>
+		load
+		
+
+	</Verb>
+	<Verb>
+		long
+		
+	</Verb>
+	<Verb>
+		lock
+	</Verb>
+	<Verb>
+		look
+		
+	</Verb>
+	<Verb>
+		love
+
+		
+	</Verb>
+	<Verb>
+		man
+		
+	</Verb>
+	<Verb>
+		manage
+		
+
+	</Verb>
+	<Verb>
+		march
+		
+
+	</Verb>
+	<Verb>
+		mark
+
+	</Verb>
+	<Verb>
+		jail
+		
+
+	</Verb>
+	<Verb>
+		jam
+		
+	</Verb>
+	<Verb>
+		jog
+		
+	</Verb>
+	<Verb>
+		join
+		
+	</Verb>
+	<Verb>
+		joke
+		
+	</Verb>
+	<Verb>
+		judge
+		
+	</Verb>
+	<Verb>
+		juggle
+		
+	</Verb>
+	<Verb>
+		jump
+
+		
+
+	</Verb>
+	<Verb>
+		kick
+
+	</Verb>
+	<Verb>
+		kill
+
+	</Verb>
+	<Verb>
+		kiss
+		
+	</Verb>
+	<Verb>
+		kneel
+		
+
+	</Verb>
+	<Verb>
+		knit
+		
+	</Verb>
+	<Verb>
+		knock
+		
+	</Verb>
+	<Verb>
+knot
+	</Verb>
+	<Verb>
+		hammer
+		
+
+		
+	</Verb>
+	<Verb>
+		identify
+		
+	</Verb>
+	<Verb>
+		ignore
+		
+	</Verb>
+	<Verb>
+		imagine
+
+	</Verb>
+	<Verb>
+		impress
+		
+	</Verb>
+	<Verb>
+		improve
+		
+
+	</Verb>
+	<Verb>
+		include
+		
+	</Verb>
+	<Verb>
+		increase
+		
+	</Verb>
+	<Verb>
+		influence
+
+	</Verb>
+	<Verb>
+		inform
+		
+	</Verb>
+	<Verb>
+		inject
+		
+	</Verb>
+	<Verb>
+		injure
+		
+	</Verb>
+	<Verb>
+		instruct
+		
+	</Verb>
+	<Verb>
+		intend
+		
+	</Verb>
+	<Verb>
+		interest
+		
+	</Verb>
+	<Verb>
+		interfere
+
+
+	</Verb>
+	<Verb>
+		interrupt
+		
+	</Verb>
+	<Verb>
+		introduce
+		
+	</Verb>
+	<Verb>
+		invent
+		
+	</Verb>
+	<Verb>
+		invite
+		
+
+	</Verb>
+	<Verb>
+irritate
+		
+	</Verb>
+	<Verb>
+		itch
+	</Verb>
+	<Verb>
+		gather
+		
+
+	</Verb>
+	<Verb>
+		gaze
+		
+	</Verb>
+	<Verb>
+		glow
+		
+	</Verb>
+	<Verb>
+		glue
+		
+	</Verb>
+	<Verb>
+		grab
+
+	</Verb>
+	<Verb>
+		grate
+
+	</Verb>
+	<Verb>
+		grease
+		
+	</Verb>
+	<Verb>
+		greet
+		
+	</Verb>
+	<Verb>
+		grin
+		
+	</Verb>
+	<Verb>
+		grip
+		
+	</Verb>
+	<Verb>
+		groan
+		
+	</Verb>
+	<Verb>
+		guarantee
+		
+	</Verb>
+	<Verb>
+		guard
+		
+	</Verb>
+	<Verb>
+		guess
+		
+	</Verb>
+	<Verb>
+		guide
+	</Verb>
+	<Verb>
+		hand
+		
+	</Verb>
+	<Verb>
+		handle
+		
+	</Verb>
+	<Verb>
+		hang
+		
+	</Verb>
+	<Verb>
+		happen
+		
+	</Verb>
+	<Verb>
+		harass
+
+	</Verb>
+	<Verb>
+		harm
+
+	</Verb>
+	<Verb>
+		hate
+
+	</Verb>
+	<Verb>
+		haunt
+		
+	</Verb>
+	<Verb>
+		head
+		
+	</Verb>
+	<Verb>
+		heal
+		
+	</Verb>
+	<Verb>
+		heap
+		
+	</Verb>
+	<Verb>
+		heat
+		
+	</Verb>
+	<Verb>
+help
+		
+	</Verb>
+	<Verb>
+		hook
+		
+	</Verb>
+	<Verb>
+		hop
+		
+
+	</Verb>
+	<Verb>
+		hope
+		
+	</Verb>
+	<Verb>
+		hover
+		
+	</Verb>
+	<Verb>
+		hug
+		
+	</Verb>
+	<Verb>
+		hum
+		
+	</Verb>
+	<Verb>
+		hunt
+		
+	</Verb>
+	<Verb>
+		hurry
+	</Verb>
+	<Verb>
+		fancy
+		
+	</Verb>
+	<Verb>
+		fasten
+		
+	</Verb>
+	<Verb>
+fax
+		
+	</Verb>
+	<Verb>
+		fear
+		
+	</Verb>
+	<Verb>
+		fence
+		
+	</Verb>
+	<Verb>
+		fetch
+		
+	</Verb>
+	<Verb>
+		file
+		
+	</Verb>
+	<Verb>
+		fill
+		
+	</Verb>
+	<Verb>
+		film
+		
+	</Verb>
+	<Verb>
+		fire
+		
+	</Verb>
+	<Verb>
+		fit
+		
+	</Verb>
+	<Verb>
+		fix
+		
+	</Verb>
+	<Verb>
+		flap
+		
+	</Verb>
+	<Verb>
+		flash
+		
+	</Verb>
+	<Verb>
+		float
+		
+	</Verb>
+	<Verb>
+		flood
+		
+	</Verb>
+	<Verb>
+		flow
+		
+	</Verb>
+	<Verb>
+		flower
+		
+	</Verb>
+	<Verb>
+		fold
+		
+	</Verb>
+	<Verb>
+		follow
+		
+	</Verb>
+	<Verb>
+		fool
+		
+	</Verb>
+	<Verb>
+		force
+
+	</Verb>
+	<Verb>
+		form
+
+	</Verb>
+	<Verb>
+		found
+		
+	</Verb>
+	<Verb>
+		frame
+		
+	</Verb>
+	<Verb>
+		frighten
+		
+	</Verb>
+	<Verb>
+		fry
+
+	</Verb>
+	<Verb>
+		earn
+		
+	</Verb>
+	<Verb>
+		educate
+		
+	</Verb>
+	<Verb>
+		embarrass
+		
+	</Verb>
+	<Verb>
+		employ
+		
+	</Verb>
+	<Verb>
+		empty
+		
+	</Verb>
+	<Verb>
+		encourage
+		
+
+	</Verb>
+	<Verb>
+		end
+		
+	</Verb>
+	<Verb>
+		enjoy
+		
+	</Verb>
+	<Verb>
+		enter
+		
+	</Verb>
+	<Verb>
+		entertain
+		
+	</Verb>
+	<Verb>
+		escape
+		
+	</Verb>
+	<Verb>
+		examine
+		
+	</Verb>
+	<Verb>
+		excite
+
+	</Verb>
+	<Verb>
+		excuse
+		
+	</Verb>
+	<Verb>
+		exercise
+		
+	</Verb>
+	<Verb>
+		exist
+		
+	</Verb>
+	<Verb>
+		expand
+		
+	</Verb>
+	<Verb>
+		expect
+		
+	</Verb>
+	<Verb>
+		explain
+		
+	</Verb>
+	<Verb>
+		explode
+
+	</Verb>
+	<Verb>
+		extend
+
+		
+	</Verb>
+	<Verb>
+		face
+		
+
+	</Verb>
+	<Verb>
+		fade
+		
+	</Verb>
+	<Verb>fail
+
+	</Verb>
+	<Verb>
+		balance
+		
+		
+	</Verb>
+	<Verb>
+		dare
+		
+	</Verb>
+	<Verb>
+		decay
+
+	</Verb>
+	<Verb>
+		deceive
+		
+	</Verb>
+	<Verb>
+		decide
+		
+	</Verb>
+	<Verb>
+		decorate
+		
+	</Verb>
+	<Verb>
+		delay
+		
+	</Verb>
+	<Verb>
+		delight
+		
+	</Verb>
+	<Verb>
+		deliver
+		
+	</Verb>
+	<Verb>
+		depend
+		
+
+	</Verb>
+	<Verb>
+		describe
+		
+	</Verb>
+	<Verb>
+		desert
+		
+	</Verb>
+	<Verb>
+		deserve
+
+	</Verb>
+	<Verb>
+		destroy
+		
+	</Verb>
+	<Verb>
+		detect
+		
+	</Verb>
+	<Verb>
+		develop
+		
+	</Verb>
+	<Verb>
+		disagree
+		
+	</Verb>
+	<Verb>
+		disappear
+		
+	</Verb>
+	<Verb>
+		disapprove
+		
+	</Verb>
+	<Verb>
+		disarm
+		
+	</Verb>
+	<Verb>
+		discover
+		
+	</Verb>
+	<Verb>
+		dislike
+		
+	</Verb>
+	<Verb>
+		divide
+		
+	</Verb>
+	<Verb>
+		double
+		
+	</Verb>
+	<Verb>
+		doubt
+		
+	</Verb>
+	<Verb>
+		drag
+		
+	</Verb>
+	<Verb>
+		drain
+		
+	</Verb>
+	<Verb>
+		dream
+		
+	</Verb>
+	<Verb>
+		dress
+		
+	</Verb>
+	<Verb>
+		drip
+		
+	</Verb>
+	<Verb>
+		drop
+		
+	</Verb>
+	<Verb>
+		drown
+		
+	</Verb>
+	<Verb>
+		drum
+		
+	</Verb>
+	<Verb>
+		dry
+		
+	</Verb>
+	<Verb>
+dust
+	</Verb>
+	<Verb>
+		complete
+		
+	</Verb>
+	<Verb>
+		concentrate
+		
+	</Verb>
+	<Verb>
+		concern
+		
+	</Verb>
+	<Verb>
+		confess
+		
+	</Verb>
+	<Verb>
+		confuse
+		
+		
+	</Verb>
+	<Verb>
+		cough
+
+
+	</Verb>
+	<Verb>
+		count
+		
+	</Verb>
+	<Verb>
+		cover
+		
+	</Verb>
+	<Verb>
+		crack
+
+	</Verb>
+	<Verb>
+		crash
+
+	</Verb>
+	<Verb>
+		crawl
+		
+	</Verb>
+	<Verb>
+		cross
+		
+	</Verb>
+	<Verb>
+		crush
+		
+	</Verb>
+	<Verb>
+		cry
+		
+	</Verb>
+	<Verb>
+		cure
+		
+	</Verb>
+	<Verb>
+		curl
+		
+	</Verb>
+	<Verb>
+		curve
+		
+	</Verb>
+	<Verb>
+		cycle
+
+		
+	</Verb>
+	<Verb>
+		dam
+		
+
+	</Verb>
+	<Verb>
+		damage
+		
+	</Verb>
+	<Verb>
+		dance
+
+	</Verb>
+	<Verb>
+		connect
+		
+	</Verb>
+	<Verb>
+		consider
+		
+
+	</Verb>
+	<Verb>
+		consist
+		
+
+	</Verb>
+	<Verb>
+		contain
+
+	</Verb>
+	<Verb>
+		continue
+		
+	</Verb>
+	<Verb>
+		copy
+		
+
+	</Verb>
+	<Verb>
+		correct
+
+	</Verb>
+	<Verb>
+		camp
+		
+	</Verb>
+	<Verb>
+		care
+		
+	</Verb>
+	<Verb>
+		carry
+		
+	</Verb>
+	<Verb>
+		carve
+		
+	</Verb>
+	<Verb>
+		cause
+		
+	</Verb>
+	<Verb>
+		challenge
+
+	</Verb>
+	<Verb>
+		change
+		
+	</Verb>
+	<Verb>
+		charge
+		
+	</Verb>
+	<Verb>
+		chase
+		
+	</Verb>
+	<Verb>
+		cheat
+		
+	</Verb>
+	<Verb>
+		check
+		
+	</Verb>
+	<Verb>
+		cheer
+		
+	</Verb>
+	<Verb>
+		chew
+		
+	</Verb>
+	<Verb>
+		choke
+		
+	</Verb>
+	<Verb>
+		chop
+		
+	</Verb>
+	<Verb>
+		claim
+
+	</Verb>
+	<Verb>
+		clap
+		
+	</Verb>
+	<Verb>
+		clean
+		
+	</Verb>
+	<Verb>
+		clear
+
+	</Verb>
+	<Verb>
+		clip
+		
+	</Verb>
+	<Verb>
+close
+		
+		
+	</Verb>
+	<Verb>
+		coil
+		
+	</Verb>
+	<Verb>
+		coach
+	</Verb>
+	<Verb>
+		collect
+		
+	</Verb>
+	<Verb>
+		colour
+
+	</Verb>
+	<Verb>
+		comb
+		
+	</Verb>
+	<Verb>
+		command
+		
+	</Verb>
+	<Verb>
+		communicate
+		
+
+	</Verb>
+	<Verb>
+		compare
+		
+	</Verb>
+	<Verb>
+		compete
+		
+	</Verb>
+	<Verb>
+		complain
+
+
+	</Verb>
+	<Verb>
+		blot
+		
+	</Verb>
+	<Verb>
+		blush
+
+	</Verb>
+	<Verb>
+		boast
+		
+	</Verb>
+	<Verb>
+		boil
+		
+	</Verb>
+	<Verb>
+		bolt
+		
+	</Verb>
+	<Verb>
+		bomb
+		
+	</Verb>
+	<Verb>
+		book
+
+	</Verb>
+	<Verb>
+		bore
+		
+	</Verb>
+	<Verb>
+		borrow
+		
+	</Verb>
+	<Verb>
+		bounce
+		
+	</Verb>
+	<Verb>
+		bow
+
+	</Verb>
+	<Verb>
+		box
+		
+	</Verb>
+	<Verb>
+		brake
+		
+	</Verb>
+	<Verb>
+		branch
+		
+	</Verb>
+	<Verb>
+		breathe
+		
+	</Verb>
+	<Verb>
+		bruise
+		
+	</Verb>
+	<Verb>
+		brush
+		
+	</Verb>
+	<Verb>
+		bubble
+		
+	</Verb>
+	<Verb>
+		bump
+
+	</Verb>
+	<Verb>
+		burn
+
+	</Verb>
+	<Verb>
+		bury
+
+	</Verb>
+	<Verb>
+		buzz
+
+		
+	</Verb>
+	<Verb>
+		calculate
+		
+	</Verb>
+	<Verb>
+		call
+	</Verb>
+	<Verb>
+		ban
+		
+	</Verb>
+	<Verb>
+		bang
+		
+	</Verb>
+	<Verb>
+		bare
+
+	</Verb>
+	<Verb>
+		bat
+		
+		
+	</Verb>
+	<Verb>
+		battle
+		
+	</Verb>
+	<Verb>
+		bathe
+	</Verb>
+	<Verb>
+		beam
+		
+	</Verb>
+	<Verb>
+		beg
+		
+	</Verb>
+	<Verb>
+		behave
+
+	</Verb>
+	<Verb>
+		belong
+
+	</Verb>
+	<Verb>
+		bleach
+		
+	</Verb>
+	<Verb>
+		bless
+		
+	</Verb>
+	<Verb>
+		blind
+		
+	</Verb>
+	<Verb>
+		blink
+
+	</Verb>
+</Verbs>

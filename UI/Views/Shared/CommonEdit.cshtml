@@ -1,0 +1,82 @@
+﻿@model BLL.Abstract.WcBase
+
+@{
+	string Title = ViewBag.Title;
+	string Entity = ViewBag.Entity;
+	string Id = ViewBag.Id;
+}
+
+<div class="span4">
+	<h2>@Title</h2>
+	<h4>@Entity</h4>
+	<hr />
+	@if (ViewBag.ErrorMessage != null)
+	{
+		<p class="alert">ErrorMessage: @ViewBag.ErrorMessage</p>
+	}
+
+	@if (ViewBag.InnerMessage != null)
+	{
+		<p class="alert">ErrorMessage: @ViewBag.InnerMessage</p>
+	}
+
+	@if (ViewBag.IsDuplicatedEntry != null)
+	{
+		<p class="alert">ErrorMessage: @Resources.DuplicatedEntry</p>
+	}
+</div>
+
+@using (Html.BeginForm("Edit", Entity, FormMethod.Post, new { @class = "entry-form" }))
+{
+	@Html.AntiForgeryToken()
+
+	@Html.Hidden("id", Id)
+	
+	<fieldset class="span3">
+		<div class="form-group">
+			@Html.LabelFor(model => model.Entry, new { @class = "" })
+			<div class="">
+				@Html.EditorFor(model => model.Entry, new { @class = "" })
+			</div>
+		</div>
+
+		<div class="form-group">
+			@Html.LabelFor(model => model.EntryZht, new { @class = "" })
+			<div class="">
+				@Html.EditorFor(model => model.EntryZht, new { @class = "" })
+			</div>
+		</div>
+		<div class="form-group">
+			@Html.LabelFor(model => model.EntryZhs, new { @class = "" })
+			<div class="">
+				@Html.EditorFor(model => model.EntryZhs, new { @class = "" })
+			</div>
+		</div>
+
+		<div class="form-group">
+			@Html.LabelFor(model => model.EntryJap, new { @class = "" })
+			<div class="">
+				@Html.EditorFor(model => model.EntryJap, new { @class = "" })
+			</div>
+		</div>
+
+		<div class="form-group">
+			<div class=" ">
+				<button type="submit">@Title</button>
+			</div>
+		</div>
+		
+		<div>
+			@Html.ActionLink("Back to List", "Index", Entity)
+		</div>
+	</fieldset>
+}
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+	<script>
+		(function($) {
+			$('input[type=text]:first').focus();
+		})(jQuery);
+	</script>
+}

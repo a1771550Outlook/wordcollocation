@@ -1,0 +1,57 @@
+﻿@using BLL.Helpers
+@using UI.Helpers
+@model Collocation
+@{
+	var culturename = CultureHelper.GetCurrentCulture();
+	var colWord = Model.ColWord;
+	var colWordZht = Model.ColWordZht;
+	var colWordZhs = Model.ColWordZhs;
+	var colWordJap = Model.ColWordJap;
+	string colWordTrans;
+	if (culturename.Contains("hans"))
+	{
+		colWordTrans = colWordZhs;
+	}
+	else if (culturename.Contains("ja"))
+	{
+		colWordTrans = colWordJap;
+	}
+	else
+	{
+		colWordTrans = colWordZht;
+	}
+	var exampleList = Model.WcExampleList;
+}
+<table id="ColWordList" class="table table-striped table-hover" style="width: 99%">
+	<tbody>
+		<tr>
+			<td>
+				@*<table class="table table-striped table-hover" style="color: #333333; border-collapse: collapse; width: 100%;">
+					<tbody>
+						<tr>
+							<td>*@
+				<div class="colWordDiv indent-1em">
+					<h5>
+						<i class="halflings-icon share-alt"></i>&nbsp;<span class="colWordIcon">@colWord</span>&nbsp;
+						<span class="colWordTrans">@colWordTrans</span>
+					</h5>
+
+					<div class="marginTop1em marginBottom05em">
+						<span class="exampleLabel">@Resources.ExampleText</span>
+					</div>
+
+					@foreach (var example in exampleList)
+					{
+						@Html.Partial("_WcExampleListPartial", example)
+					}
+				</div>
+
+				@*</td>
+							</tr>
+						</tbody>
+					</table>*@
+			</td>
+		</tr>
+
+	</tbody>
+</table>

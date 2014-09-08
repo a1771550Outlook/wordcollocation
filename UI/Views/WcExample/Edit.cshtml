@@ -1,0 +1,23 @@
+﻿@model UI.Models.WcExampleViewModel
+
+@{
+	//ViewData["SourceList"] = Model.SourceList;
+	//ViewData["CollocationIdDropDownList"] = Model.CollocationIdDropDownList;
+	Layout = "~/Views/Shared/_Layout.cshtml";
+	string title = (string)ViewData["Title"];
+	ViewDataDictionary dict = new ViewDataDictionary();
+	dict.Add("SourceList",Model.SourceList);
+	dict.Add("CollocationIdDropDownList", Model.CollocationIdDropDownList);
+	dict.Add("CreateMode", ViewData["CreateMode"]);
+	dict.Add("Title", title);
+}
+<div class="span9">
+	<h2>@title</h2>
+	<h4>Example</h4>
+	@Html.Partial("_WcExampleFormPartial", Model.WcExampleList, dict)
+</div>
+
+@section Scripts {
+	@Scripts.Render("~/bundles/jqueryval")
+<script src="~/js/WcExampleForm.js"></script>
+}

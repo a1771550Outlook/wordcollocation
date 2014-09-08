@@ -1,0 +1,82 @@
+﻿@using UI.Models
+@model LoginViewModel
+
+@{
+	ViewBag.Title = Resources.LogOn;
+}
+
+<style>
+	/*#login-form .input {
+		width: 60%;
+	}*/
+</style>
+
+<div class="span4">
+	<h3>@ViewBag.Title</h3>
+	<hr />
+
+	@{
+		if (ViewBag.ErrorList != null && ViewBag.ErrorList.Count > 0)
+		{
+			<ul>
+				@foreach (var error in (List<ModelError>)ViewBag.ErrorList)
+				{
+					<li><span class="text-danger">Exception: @error.Exception</span>&nbsp;<span class="text-danger">ErrorMessage: @error.ErrorMessage</span></li>
+				}
+			</ul>
+		}
+	}
+
+	<section id="loginForm">
+		<div id="modelStateErrors">
+			@if (ViewData.ModelState.Values.Any())
+			{
+				foreach (ModelError error in ViewData.ModelState.Values.SelectMany(modelState => modelState.Errors))
+				{
+					@Html.Raw(string.Format("<span>Model Errors: {0}</span><br/>", error));
+				}
+			}
+		</div>
+
+		@using (Html.BeginForm("Login", "Account", new { ReturnUrl = ViewBag.ReturnUrl }, FormMethod.Post, new { @class = "login-form", role = "form", id = "login-form" }))
+		{
+			@Html.AntiForgeryToken()
+
+			@Html.ValidationSummary("", new { @class = "text-danger" })
+
+			<div class="form-group">
+				<div class="form-group">
+					<div class="text">
+						@Html.TextBoxFor(m => m.UserNameEmail, new { placeholder = Resources.UserNameEmailforLogin })
+					</div>
+				</div>
+			</div>
+			<div class="form-group">
+				@Html.PasswordFor(m => m.Password, new { placeholder = Resources.Password })
+			</div>
+			<div class="form-group">
+				<div class="checkbox">
+					@Html.CheckBoxFor(m => m.RememberMe, new { style = "position:relative; top:.5em;" })
+					@Html.LabelFor(m => m.RememberMe)
+				</div>
+			</div>
+			<div class="form-group">
+				<div class="">
+					<button type="submit">@Resources.LogOn</button>
+				</div>
+			</div>
+			<p>
+				@Html.ActionLink(Resources.RegisterAsNewUser, "Register")
+			</p>
+			@* Enable this once you have account confirmation enabled for password reset functionality
+				<p>
+					@Html.ActionLink("Forgot your password?", "ForgotPassword")
+				</p>*@
+		}
+	</section>
+
+</div>
+
+@section Scripts {
+	@Scripts.Render("~/bundles/jqueryval")
+}

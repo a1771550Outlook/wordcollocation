@@ -1,0 +1,6 @@
+﻿@{
+	ViewBag.Title = Resources.EmailNotConfirmedHeading;
+}
+<h3>@ViewBag.Title</h3>
+<p>@Resources.EmailNotConfirmedParagraph</p>
+@Html.ActionLink(Resources.RequestAnotherConfirmEmailLink, "ReConfirmEmail", new{userId=(string)ViewBag.UserId, userEmail=(string)ViewBag.UserEmail})

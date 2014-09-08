@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Countries>
+	<Country key="1" value="中国大陆"></Country>
+	<Country key="2" value="台灣"></Country>
+	<Country key="3" value="日本"></Country>
+	<Country key="4" value="港澳地區"></Country>
+	<Country key="5" value="Others"></Country>
+</Countries>

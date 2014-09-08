@@ -1,0 +1,97 @@
+﻿@model WcExample
+
+@{
+	List<SelectListItem> sourceList = (List<SelectListItem>)ViewData["SourceList"];
+	List<SelectListItem> collocationIdDropDownList = (List<SelectListItem>)ViewData["CollocationIdDropDownList"];
+	string createMode = ViewData["CreateMode"].ToString();
+	string title = (string)ViewData["Title"];
+	string action = User.IsInRole("Admin") ? "IndexForAdmin" : "IndexForEditor";
+}
+
+<div class="span8">
+	
+	@Html.Hidden("createMode", createMode)
+	
+	<div class="form-group">
+		@Html.LabelFor(model => model.CollocationId)
+		<div class="">
+			@Html.DropDownList("collocationId", collocationIdDropDownList)
+		</div>
+	</div>
+
+	<div class="form-group">
+		@Html.LabelFor(model => model.Entry)
+		<div class="">
+			@Html.TextAreaFor(model => model.Entry, new { @rows = "3"})
+
+		</div>
+	</div>
+
+	<div class="form-group">
+		@Html.LabelFor(model => model.EntryZht)
+		<div class="">
+			@Html.TextAreaFor(model => model.EntryZht, new { @rows = "3" })
+		</div>
+	</div>
+
+	<div class="form-group">
+		@Html.LabelFor(model => model.EntryZhs)
+		<div class="">
+			@Html.TextAreaFor(model => model.EntryZhs, new { @rows = "3" })
+		</div>
+	</div>
+
+	<div class="form-group">
+		@Html.LabelFor(model => model.EntryJap)
+		<div class="">
+			@Html.TextAreaFor(model => model.EntryJap, new { @rows = "3" })
+		</div>
+	</div>
+
+	<div class="form-group">
+		@Html.LabelFor(model => model.Source)
+		<div class="">
+			@Html.DropDownList("source", sourceList)
+		</div>
+	</div>
+
+	<div class="form-group">
+			<div class="checkbox">
+				@Html.CheckBoxFor(model => model.NeedRemark, new { style = "position:relative; top:.5em;" })
+				<label for="@Resources.NeedRemark">@Resources.NeedRemark</label>
+			</div>
+	</div>
+
+	<div id="pnlRemark" class="hide">
+		<div class="form-group">
+			@Html.LabelFor(model => model.RemarkZhs)
+			<div class="">
+				@Html.TextAreaFor(model => model.RemarkZhs)
+			</div>
+		</div>
+
+		<div class="form-group">
+			@Html.LabelFor(model => model.RemarkZht)
+			<div class="">
+				@Html.TextAreaFor(model => model.RemarkZht)
+			</div>
+		</div>
+
+		<div class="form-group">
+			@Html.LabelFor(model => model.RemarkJap)
+			<div class="">
+				@Html.TextAreaFor(model => model.RemarkJap)
+			</div>
+		</div>
+	</div>
+
+	<div class="form-group">
+
+		<button type="submit">@title</button>
+
+	</div>
+	
+	<div>
+		@Html.ActionLink("Back to List", action)
+	</div>
+</div>
