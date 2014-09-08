@@ -23,6 +23,7 @@ namespace UI.Controllers
 
 		public AccountController(ApplicationUserManager userManager)
 		{
+			// add a comment for demo in github...
 			UserManager = userManager;
 		}
 
